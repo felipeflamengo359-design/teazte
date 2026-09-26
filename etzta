@@ -2510,18 +2510,43 @@ http://tjtor8411.com:80/Osiel123/Felicidade321/137130.ts
 #EXTINF:-1 group-title="CANAIS 24 horas animes" tvg-logo="https://i.postimg.cc/kX2HfGmp/7b09fbb42da3d9fa613ec1d025cf41df.avif",[24H] Os Cavaleiros do Zodíaco Saint Seiya
 http://tjtor8411.com:80/Osiel123/Felicidade321/137136.ts
 
-////////////////////////////////////////////////// CANAIS 24 horas filme  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+////////////////////////////////////////////////// CANAIS 24 HORAS FILME  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
-#EXTINF:-1 ,[24H] [Filmes] Minha Mae E Uma Peca
+#EXTINF:-1 group-title="CANAIS 24 HORAS FILME" tvg-logo="https://i.postimg.cc/GhMSshLX/Minha-Mae-e-uma-Peca.jpg",[24H] [Filmes] Minha Mae E Uma Peca
 http://tjtor8411.com:80/Osiel123/Felicidade321/141501.ts
 
+////////////////////////////////////////////////// CANAIS 24 HORAS DESENHO  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
-////////////////////////////////////////////////// CANAIS 24 horas desenho  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-
-#EXTINF:-1 ,[24H] A Família Urso
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="https://i.postimg.cc/B6sCVdZf/MV5BMGNk-Yz-Ax-Mj-Et-Nj-Fj-MS00NTU3LWJi-Ym-It-NGQ1MWQ2NTAw-Mjlm-Xk-Ey-Xk-Fqc-Gc-V1.jpg",[24H] A Família Urso
 http://tjtor8411.com:80/Osiel123/Felicidade321/135544.ts
-#EXTINF:-1 ,[24H] Alien TV
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="https://static.wikia.nocookie.net/vozesportuguesas/images/a/ae/Alien_TV.jpg/revision/latest?cb=20201230213023&path-prefix=pt",[24H] Alien TV
 http://tjtor8411.com:80/Osiel123/Felicidade321/140775.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",
+
+
+
 #EXTINF:-1 ,[24H] Andy Panda
 http://tjtor8411.com:80/Osiel123/Felicidade321/140776.ts
 #EXTINF:-1 ,[24H] Aaah!!! Monstros
