@@ -54,11 +54,11 @@ https://isaocorp.cloudecast.com/astraltv/index.m3u8
 https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/mcEd9qv.png",Play TV
 https://isaocorp.cloudecast.com/playtv/index.m3u8
-#EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://nVFiftB.png",Ypê TV
+#EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6OjMECX9EEJU_TQp1AteWUe0SQhdF-DanYRHwbRyZ9yywH_hboR2Z3yg&s=10",Ypê TV
 https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://imgur.com/MByVw7Z.png",SPTV
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://westerntvclassics.com/wp-content/uploads/2018/07/westernclassics-header-logo.png",CLASSIQUE TV WETERN
+#EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://onlinetvplayer.com/images/logos/7w0xl4nw.png",CLASSIQUE TV WETERN
 https://stmv2.painelvideocast.com.br/classiquew/classiquew/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://imgur.com/akpYIW2.png",VRT Channel
 https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
@@ -102,35 +102,35 @@ EXTINF:-1 group-title="ESPN" tvg-logo="https://i.imgur.com/Zz2VFpL.png",ESPN 6 H
 http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
 
 ''''''''''''''''''''''''''''''''''''''''''''PREMIERE'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-#EXTINF:-1 group-title="﻿Premiere" tvg-logo="http://www.fontedecanais.gs/logos/canais/premiere.png",﻿Premiere 1 FHD
+#EXTINF:-1 group-title="﻿Premiere" tvg-logo="https://i.postimg.cc/WbykxQpJ/home-share-1b75cdaa.png",﻿Premiere 1 FHD
 http://64.31.23.207:80/59471019/60849037/3460209.m3u8
-#EXTINF:-1 group-title="﻿Premiere" tvg-logo="http://www.fontedecanais.gs/logos/canais/premiere.png",Premiere 1 HD
+#EXTINF:-1 group-title="﻿Premiere" tvg-logo="https://i.postimg.cc/WbykxQpJ/home-share-1b75cdaa.png",Premiere 1 HD
 http://64.31.23.207:80/59471019/60849037/3460210.m3u8
-#EXTINF:-1 group-title="﻿Premiere" tvg-logo="http://www.fontedecanais.gs/logos/canais/premiere.png",Premiere 2 FHD
+#EXTINF:-1 group-title="﻿Premiere" tvg-logo="https://i.postimg.cc/WbykxQpJ/home-share-1b75cdaa.png",Premiere 2 FHD
 http://64.31.23.207:80/59471019/60849037/3460212.m3u8
-#EXTINF:-1 group-title="﻿Premiere" tvg-logo="http://www.fontedecanais.gs/logos/canais/premiere.png",Premiere 2 HD
+#EXTINF:-1 group-title="﻿Premiere" tvg-logo="https://i.postimg.cc/WbykxQpJ/home-share-1b75cdaa.png",Premiere 2 HD
 http://64.31.23.207:80/59471019/60849037/3460213.m3u8
-#EXTINF:-1 group-title="﻿Premiere" tvg-logo="http://www.fontedecanais.gs/logos/canais/premiere.png",Premiere 3 FHD
+#EXTINF:-1 group-title="﻿Premiere" tvg-logo="https://i.postimg.cc/WbykxQpJ/home-share-1b75cdaa.png",Premiere 3 FHD
 http://64.31.23.207:80/59471019/60849037/3460215.m3u8
-#EXTINF:-1 group-title="﻿Premiere" tvg-logo="http://www.fontedecanais.gs/logos/canais/premiere.png",Premiere 3 HD
+#EXTINF:-1 group-title="﻿Premiere" tvg-logo="https://i.postimg.cc/WbykxQpJ/home-share-1b75cdaa.png",Premiere 3 HD
 http://64.31.23.207:80/59471019/60849037/3460216.m3u8
-#EXTINF:-1 group-title="﻿Premiere" tvg-logo="http://www.fontedecanais.gs/logos/canais/premiere.png",Premiere 4 FHD
+#EXTINF:-1 group-title="﻿Premiere" tvg-logo="https://i.postimg.cc/WbykxQpJ/home-share-1b75cdaa.png",Premiere 4 FHD
 http://64.31.23.207:80/59471019/60849037/3460218.m3u8
-#EXTINF:-1 group-title="﻿Premiere" tvg-logo="http://www.fontedecanais.gs/logos/canais/premiere.png",Premiere 4 HD
+#EXTINF:-1 group-title="﻿Premiere" tvg-logo="https://i.postimg.cc/WbykxQpJ/home-share-1b75cdaa.png",Premiere 4 HD
 http://64.31.23.207:80/59471019/60849037/3460219.m3u8
-#EXTINF:-1 group-title="﻿Premiere" tvg-logo="http://www.fontedecanais.gs/logos/canais/premiere.png",Premiere 5 FHD
+#EXTINF:-1 group-title="﻿Premiere" tvg-logo="https://i.postimg.cc/WbykxQpJ/home-share-1b75cdaa.png",Premiere 5 FHD
 http://64.31.23.207:80/59471019/60849037/3460221.m3u8
-#EXTINF:-1 group-title="﻿Premiere" tvg-logo="http://www.fontedecanais.gs/logos/canais/premiere.png",Premiere 5 HD
+#EXTINF:-1 group-title="﻿Premiere" tvg-logo="https://i.postimg.cc/WbykxQpJ/home-share-1b75cdaa.png",Premiere 5 HD
 http://64.31.23.207:80/59471019/60849037/3460222.m3u8
-#EXTINF:-1 group-title="﻿Premiere" tvg-logo="http://www.fontedecanais.gs/logos/canais/premiere.png",Premiere 6 FHD
+#EXTINF:-1 group-title="﻿Premiere" tvg-logo="https://i.postimg.cc/WbykxQpJ/home-share-1b75cdaa.png",Premiere 6 FHD
 http://64.31.23.207:80/59471019/60849037/3460224.m3u8
-#EXTINF:-1 group-title="﻿Premiere" tvg-logo="http://www.fontedecanais.gs/logos/canais/premiere.png",Premiere 6 HD
+#EXTINF:-1 group-title="﻿Premiere" tvg-logo="https://i.postimg.cc/WbykxQpJ/home-share-1b75cdaa.png",Premiere 6 HD
 http://64.31.23.207:80/59471019/60849037/3460225.m3u8
-#EXTINF:-1 group-title="﻿Premiere" tvg-logo="http://www.fontedecanais.gs/logos/canais/premiere.png",Premiere 7 FHD
+#EXTINF:-1 group-title="﻿Premiere" tvg-logo="https://i.postimg.cc/WbykxQpJ/home-share-1b75cdaa.png",Premiere 7 FHD
 http://64.31.23.207:80/59471019/60849037/3460227.m3u8
-#EXTINF:-1 group-title="﻿Premiere" tvg-logo="http://www.fontedecanais.gs/logos/canais/premiere.png",Premiere 7 HD
+#EXTINF:-1 group-title="﻿Premiere" tvg-logo="https://i.postimg.cc/WbykxQpJ/home-share-1b75cdaa.png",Premiere 7 HD
 http://64.31.23.207:80/59471019/60849037/3460228.m3u8
-#EXTINF:-1 group-title="﻿Premiere" tvg-logo="http://www.fontedecanais.gs/logos/canais/premiere.png",Premiere 8 FHD
+#EXTINF:-1 group-title="﻿Premiere" tvg-logo="https://i.postimg.cc/WbykxQpJ/home-share-1b75cdaa.png",Premiere 8 FHD
 http://64.31.23.207:80/59471019/60849037/3460230.m3u8
 #EXTINF:-1 group-title="﻿Premiere" tvg-logo="http://logos.appscms.xyz/logos/2025/premiere.png",﻿Premiere Clubes 4K
 http://64.31.23.207:80/59471019/60849037/324401.m3u8
@@ -153,12 +153,12 @@ http://64.31.23.207:80/59471019/60849037/3460204.m3u8
 http://64.31.23.207:80/59471019/60849037/3460206.m3u8
 #EXTINF:-1 group-title="SporTV" tvg-logo="http://www.fontedecanais.gs/logos/canais/sportv3.png",SporTV 3 HD
 http://64.31.23.207:80/59471019/60849037/3460207.m3u8
-#EXTINF:-1 group-title="SporTV" tvg-logo="https://imgur.com/a/FOr2Wy7",SporTV 4 FHD [H265]
+#EXTINF:-1 group-title="SporTV" tvg-logo="https://i.postimg.cc/WbYGTd88/sportv4.png",SporTV 4 FHD [H265]
 http://tjtor8411.com:80/Osiel123/Felicidade321/276092.ts
 
 ---------------------------------------------------COMBATE UFC-----------------------------------------------------------------
 
-#EXTINF:-1 group-title="UFC COMBATE" tvg-logo="http://logos.imperioapps.top/COMBATE.png",Combate FHD
+#EXTINF:-1 group-title="UFC COMBATE" tvg-logo="https://i.postimg.cc/Pxnb904c/home-share-combate-343f6619.png",Combate FHD
 http://64.31.23.207:80/59471019/60849037/297542.m3u8
 #EXTINF:-1 group-title="UFC COMBATE" tvg-logo="http://logos.imperioapps.top/UFC_FIGHT_PASS.png",UFC Fight Pass 01
 http://64.31.23.207:80/59471019/60849037/297545.m3u8
@@ -175,9 +175,35 @@ http://64.31.23.207:80/59471019/60849037/297550.m3u8
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://imgur.com/a/sZO7gtE",Eurosport 2  HD
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://images.seeklogo.com/logo-png/48/1/fla-tv-logo-png_seeklogo-487995.png",FLA TV
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/509957 
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo6k1nx5lYE2ayFiISmipYqhDh3Un7_FF5N778YKThhNKecjYKFWxTtsc&s=10",BR SPORT FHD
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/494901
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo6k1nx5lYE2ayFiISmipYqhDh3Un7_FF5N778YKThhNKecjYKFWxTtsc&s=10",BR SPORT HD
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/454345
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo6k1nx5lYE2ayFiISmipYqhDh3Un7_FF5N778YKThhNKecjYKFWxTtsc&s=10",BR SPORT 2 FHD
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/450103
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo6k1nx5lYE2ayFiISmipYqhDh3Un7_FF5N778YKThhNKecjYKFWxTtsc&s=10",BR SPORT 2 HD
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/505857
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo6k1nx5lYE2ayFiISmipYqhDh3Un7_FF5N778YKThhNKecjYKFWxTtsc&s=10",BR SPORT 3 FHD
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/772
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo6k1nx5lYE2ayFiISmipYqhDh3Un7_FF5N778YKThhNKecjYKFWxTtsc&s=10",BR SPORT 3 HD
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/23
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo6k1nx5lYE2ayFiISmipYqhDh3Un7_FF5N778YKThhNKecjYKFWxTtsc&s=10",BR SPORT 4 FHD
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/497306
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo6k1nx5lYE2ayFiISmipYqhDh3Un7_FF5N778YKThhNKecjYKFWxTtsc&s=10",BR SPORT 4 HD
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/494039
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo6k1nx5lYE2ayFiISmipYqhDh3Un7_FF5N778YKThhNKecjYKFWxTtsc&s=10",BR SPORT 5 FHD
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/773
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo6k1nx5lYE2ayFiISmipYqhDh3Un7_FF5N778YKThhNKecjYKFWxTtsc&s=10",BR SPORT 5 HD
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/32
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo6k1nx5lYE2ayFiISmipYqhDh3Un7_FF5N778YKThhNKecjYKFWxTtsc&s=10",BR SPORT 6 FHD
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/770
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo6k1nx5lYE2ayFiISmipYqhDh3Un7_FF5N778YKThhNKecjYKFWxTtsc&s=10",BR SPORT 6 HD
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/26
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://i.postimg.cc/nrPGRrw1/xvuxxt1474667338.png	",Eurosport 2  HD
 http://89.44.231.117:7000/eurosport2
-#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://imgur.com/a/2stsqJ3",Eurosport HD
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://i.postimg.cc/QMJkL0yV/154-square.webp",Eurosport HD
 http://89.44.231.117:7000/eurosport
 #EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="http://logos.appscms.xyz/logos/2025/dazn.png",DAZN (JOGO 1)
 http://64.31.23.207:80/59471019/60849037/3460239.m3u8
@@ -189,17 +215,17 @@ http://64.31.23.207:80/59471019/60849037/3460243.m3u8
 http://64.31.23.207:80/59471019/60849037/3460244.m3u8
 #EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="http://logos.appscms.xyz/logos/2025/canalgoat.png",CANAL GOAT (JOGO 3)
 http://64.31.23.207:80/59471019/60849037/3460245.m3u8
-#EXTINF:-1 group-title="CANAIS DE ESPORTES",NSPORT (JOGO 01)
-http://64.31.23.207:80/59471019/60849037/3460254.m3u8
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://i.postimg.cc/VNmnFXLG/channels4-profile.jpg",NSPORT (JOGO 01)
+http://64.31.23.207:80/59471019/60849037/3460254.m3u8 
 #EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="http://logos.appscms.xyz/logos/2025/tveba.png",TVE BA (JOGO 01)
 http://64.31.23.207:80/59471019/60849037/3460259.m3u8
 #EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://i0.wp.com/portaltrend.com.br/wp-content/uploads/2025/03/x-sports.png?fit=1920%2C1080&ssl=1",Xsport FHD
 http://64.31.23.207:80/59471019/60849037/3460262.m3u8
 #EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://i0.wp.com/portaltrend.com.br/wp-content/uploads/2025/03/x-sports.png?fit=1920%2C1080&ssl=1",Xsport HD
 http://64.31.23.207:80/59471019/60849037/3460263.m3u8
-#EXTINF:-1 group-title="CANAIS DE ESPORTES",Mr Olympia 01
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://i.postimg.cc/L62Cngj0/650549.webp",Mr Olympia 01
 http://64.31.23.207:80/59471019/60849037/3460265.m3u8
-#EXTINF:-1 group-title="CANAIS DE ESPORTES",Mr Olympia 02
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://i.postimg.cc/L62Cngj0/650549.webp",Mr Olympia 02
 http://64.31.23.207:80/59471019/60849037/3460266.m3u8
 #EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://media.licdn.com/dms/image/v2/D4D0BAQHMo-XwSe9VaA/company-logo_200_200/B4DZfqS6OLHAAM-/0/1751982515588/sportynetbrasil_logo?e=2147483647&v=beta&t=MlJxly_3QTRXxzdgcf_cp6gr-sfEdtsOPRb1jDKiz20",SportyNet 01
 http://64.31.23.207:80/59471019/60849037/3460269.m3u8
@@ -235,7 +261,7 @@ http://64.31.23.207:80/59471019/60849037/3460165.m3u8
 http://64.31.23.207:80/59471019/60849037/3460166.m3u8
 #EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="http://www.fontedecanais.me/logos/canais/nba.png",NBA 01
 http://64.31.23.207:80/59471019/60849037/514097.m3u8
-#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="",NBA League Pass 5 FHD
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://i.postimg.cc/fWXp3hpJ/350-n8uftmaaorgzteptnn9k.jpg",NBA League Pass 5 FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/141487.ts
 #EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://www.fontedecanais.gs/logos/canais/paramountplus.png",Paramount+ 1
 http://64.31.23.207:80/59471019/60849037/3460171.m3u8
@@ -245,23 +271,29 @@ http://64.31.23.207:80/59471019/60849037/3460172.m3u8
 http://64.31.23.207:80/59471019/60849037/3460173.m3u8
 #EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://www.fontedecanais.gs/logos/canais/paramountplus.png",Paramount+ 4
 http://64.31.23.207:80/59471019/60849037/3460174.m3u8
-#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://imgur.com/a/LyQtvOq",CAZÉ TV HD ¹
-http://corruptx.org:80/3llohwk4g9/kwf099q30o/245798.ts
-#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="",X ESPORTES HD
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://i.postimg.cc/15DSZFsb/Logotipo-da-Caze-TV.png",CAZE TV 1
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/90526
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://i.postimg.cc/15DSZFsb/Logotipo-da-Caze-TV.png",CAZE TV 2
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/90527
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://i.postimg.cc/15DSZFsb/Logotipo-da-Caze-TV.png",CAZE TV 3
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/537614
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://i.postimg.cc/15DSZFsb/Logotipo-da-Caze-TV.png",CAZE TV 4
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/537615
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://i.postimg.cc/QMyw7Njr/769185.webp",X ESPORTES HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/631630.ts
-#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="",X ESPORTES FH
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://i.postimg.cc/QMyw7Njr/769185.webp",X ESPORTES FH
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/631631.ts
-#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="",SPORTYNET
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://i.postimg.cc/L41KzPY8/SKY-Sportynet-Background.png",SPORTYNET
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1165167.ts
-#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="",SportyNet 1 4K
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://i.postimg.cc/L41KzPY8/SKY-Sportynet-Background.png",SportyNet 1 4K
 http://tjtor8411.com:80/Osiel123/Felicidade321/184572.ts
-#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="",SportyNet 1 FHD
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://i.postimg.cc/L41KzPY8/SKY-Sportynet-Background.png",SportyNet 1 FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/184569.ts
-#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="",SportyNet 2 FHD
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://i.postimg.cc/L41KzPY8/SKY-Sportynet-Background.png",SportyNet 2 FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/184574.ts
-#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="",SportyNet 3 HD
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://i.postimg.cc/L41KzPY8/SKY-Sportynet-Background.png",SportyNet 3 HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/184580.ts
-#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="",SportyNet 4 HD
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://i.postimg.cc/L41KzPY8/SKY-Sportynet-Background.png",SportyNet 4 HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/184585.ts
 #EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://i.imgur.com/LSZ5VKi.png",Band Sports HD
 http://185.152.67.187:14474/
@@ -285,26 +317,26 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/7N_Sports/MAVTV_Brasil_BR/MAVTV_
 https://a.cdni.live/radioesporte/radioesporte/chunklist_w1002148111.m3u8?ManoTV
 #EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png",World Poker Tour
 https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/WPT/World_Poker_Tour_BR/World_Poker_Tour.m3u8
-#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="http://chileiptv.cl/img/logos/file_1522637574.png",RedBull TV
+#EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://i.postimg.cc/xdfNmYtB/image.png",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
 /////////////////////////////////CANAIS DE ENTRETENIMENTO\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
-#EXTINF:-1 group-title="CANAIS DE ENTRETENIMENTO" tvg-logo="",Mega TV HD
+#EXTINF:-1 group-title="CANAIS DE ENTRETENIMENTO" tvg-logo="https://play-lh.googleusercontent.com/IkR3g644-6QFD55185zrdsqRINb3QynWPX2Z1nxMWpE3jXZpRvBYeOdIVnWS1vfUAmP83G4FuOv79x3hH1t2gg",Mega TV HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/104925.ts
-#EXTINF:-1 group-title="CANAIS DE ENTRETENIMENTO" tvg-logo="",Sabor & Arte FHD [H265]
+#EXTINF:-1 group-title="CANAIS DE ENTRETENIMENTO" tvg-logo="https://canalsaborearte.uol.com.br/_next/static/media/sabor-e-arte-canais-newco.eeb8cd0f.png",Sabor & Arte FHD [H265]
 http://tjtor8411.com:80/Osiel123/Felicidade321/112014.ts
-EXTINF:-1 group-title="CANAIS DE ENTRETENIMENTO" tvg-logo="",Sabor & Arte HD
+EXTINF:-1 group-title="CANAIS DE ENTRETENIMENTO" tvg-logo="https://canalsaborearte.uol.com.br/_next/static/media/sabor-e-arte-canais-newco.eeb8cd0f.png",Sabor & Arte HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/112016.ts
-EXTINF:-1 group-title="CANAIS DE ENTRETENIMENTO" tvg-logo="",Futura FHD
+EXTINF:-1 group-title="CANAIS DE ENTRETENIMENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8FS25qdevuqtDiOxr-Yc7iNwRN6-xM7bChFFbcP5q0A&s=10",Futura FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/71962.ts
-EXTINF:-1 group-title="CANAIS DE ENTRETENIMENTO" tvg-logo="",Futura HD
+EXTINF:-1 group-title="CANAIS DE ENTRETENIMENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8FS25qdevuqtDiOxr-Yc7iNwRN6-xM7bChFFbcP5q0A&s=10",Futura HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/71964.ts
-EXTINF:-1 group-title="CANAIS DE ENTRETENIMENTO" tvg-logo="",Fish TV HD
+EXTINF:-1 group-title="CANAIS DE ENTRETENIMENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe8nDkB83pQPstU4oXh6rgTnFwh-mmi9e8azOaKoaI_4DdSANzowpu7HrD&s=10",Fish TV HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/71930.ts
-EXTINF:-1 group-title="CANAIS DE ENTRETENIMENTO" tvg-logo="",FashionTV FHD
+EXTINF:-1 group-title="CANAIS DE ENTRETENIMENTO" tvg-logo="https://castify-studio.b-cdn.net/685a45f3a250d0435347aafb/ftv-1_1920x1080_cropped.jpg",FashionTV FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/71924.ts
-EXTINF:-1 group-title="CANAIS DE ENTRETENIMENTO" tvg-logo="",FashionTV HD
+EXTINF:-1 group-title="CANAIS DE ENTRETENIMENTO" tvg-logo="https://castify-studio.b-cdn.net/685a45f3a250d0435347aafb/ftv-1_1920x1080_cropped.jpg",FashionTV HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/71926.ts
 #EXTINF:-1 group-title="CANAIS DE ENTRETENIMENTO" tvg-logo="https://i.imgur.com/qKwrAUT.png",MasterChef
 https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Banijay_Rights/Masterchef_Brasil_BR/Masterchef_Brasil.m3u8
@@ -326,12 +358,14 @@ https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS DE ENTRETENIMENTO" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/75/89/64/7589640f-38b9-cf6f-0963-1980ee7758a1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp",Demand Africa HD
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS DE ENTRETENIMENTO" tvg-logo="",TV 4K PARA CÃES
+#EXTINF:-1 group-title="CANAIS DE ENTRETENIMENTO" tvg-logo="https://imagem.natelinha.uol.com.br/original/dogtv-logo_4f9c2bda7e05c2173c6163ec8bd5465dbd8d89ab.jpeg",TV 4K PARA CÃES
 http://tjtor8411.com:80/Osiel123/Felicidade321/178517.ts
-#EXTINF:-1 group-title="CANAIS DE ENTRETENIMENTO" tvg-logo="",TV DOG FHD [H265]
+#EXTINF:-1 group-title="CANAIS DE ENTRETENIMENTO" tvg-logo="https://imagem.natelinha.uol.com.br/original/dogtv-logo_4f9c2bda7e05c2173c6163ec8bd5465dbd8d89ab.jpeg",TV DOG FHD [H265]
 http://tjtor8411.com:80/Osiel123/Felicidade321/104909.ts
-#EXTINF:-1 group-title="CANAIS DE ENTRETENIMENTO" tvg-logo="",TV para Cães HD
+#EXTINF:-1 group-title="CANAIS DE ENTRETENIMENTO" tvg-logo="https://imagem.natelinha.uol.com.br/original/dogtv-logo_4f9c2bda7e05c2173c6163ec8bd5465dbd8d89ab.jpeg",TV para Cães HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/76923.ts
+#EXTINF:-1 group-title="CANAIS DE ENTRETENIMENTO" tvg-logo="https://web.l2kinternet.com.br/wp-content/uploads/2025/02/Netflix-L2K-Internet-223x300.jpg",EVENTOS DA NETFLIX
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/553082
 
 ///////////////////////////////////CANAIS DE NOTICIAS\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
@@ -341,9 +375,9 @@ http://64.31.23.207:80/59471019/60849037/324379.m3u8
 http://64.31.23.207:80/59471019/60849037/324385.m3u8
 #EXTINF:-1 group-title="CANAIS DE NOTICIAS" tvg-logo="http://wood1.de:80/images/35a35561c5aa48d92bdf8d2d4f77fce0.png",Jovem Pan News 4K
 http://64.31.23.207:80/59471019/60849037/324388.m3u8
-#EXTINF:-1 group-title="CANAIS DE NOTICIAS" tvg-logo="",Notícias Record FHD [H265]
+#EXTINF:-1 group-title="CANAIS DE NOTICIAS" tvg-logo="https://www.areavip.com.br/wp-content/uploads/2023/11/record-logo-2023-1.jpg",Notícias Record FHD [H265]
 http://tjtor8411.com:80/Osiel123/Felicidade321/178522.ts
-#EXTINF:-1 group-title="CANAIS DE NOTICIAS" tvg-logo="",Notícias Record HD
+#EXTINF:-1 group-title="CANAIS DE NOTICIAS" tvg-logo="https://www.areavip.com.br/wp-content/uploads/2023/11/record-logo-2023-1.jpg",Notícias Record HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/72272.ts
 #EXTINF:-1 group-title="CANAIS DE NOTICIAS" tvg-logo="https://i.imgur.com/vSKVrvH.png",NEW BRASIL HD
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
@@ -368,8 +402,22 @@ http://64.31.23.207:80/59471019/60849037/3460180.m3u8
 #EXTINF:-1 group-title="Amazon Prime Video" tvg-logo="http://www.fontedecanais.gs/logos/canais/primevideo.png",Amazon Prime Video 03
 http://64.31.23.207:80/59471019/60849037/3460181.m3u8
 
+
+
 /////////////////////////////////////////////// CANAIS DE FILMES E SERIES\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
+#EXTINF:-1 group-title="CANAIS DE FILMES E SERIES" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/c/c6/Film-arts.jpg/revision/latest?cb=20200501202644&path-prefix=pt-br",FILME E ARTE FHD
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/855
+#EXTINF:-1 group-title="CANAIS DE FILMES E SERIES" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/c/c6/Film-arts.jpg/revision/latest?cb=20200501202644&path-prefix=pt-br",FILME E ARTE HD
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/125
+#EXTINF:-1 group-title="CANAIS DE FILMES E SERIES" tvg-logo="https://www.apple.com/v/apple-tv/c/images/meta/apple-tv__ft1nltyknfmi_og.png",APPLE TV 01
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/89786
+#EXTINF:-1 group-title="CANAIS DE FILMES E SERIES" tvg-logo="https://www.apple.com/v/apple-tv/c/images/meta/apple-tv__ft1nltyknfmi_og.png",APPLE TV 02
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/89787
+#EXTINF:-1 group-title="CANAIS DE FILMES E SERIES" tvg-logo="https://www.apple.com/v/apple-tv/c/images/meta/apple-tv__ft1nltyknfmi_og.png",APPLE TV 03
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/89788
+#EXTINF:-1 group-title="CANAIS DE FILMES E SERIES" tvg-logo="https://www.apple.com/v/apple-tv/c/images/meta/apple-tv__ft1nltyknfmi_og.png",APPLE TV 04
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/89789
 #EXTINF:-1 group-title="CANAIS DE FILMES E SERIES" tvg-logo="http://logos.appscms.xyz/logos/2025/axn.png",AXN 4K
 http://64.31.23.207:80/59471019/60849037/324375.m3u8
 #EXTINF:-1 group-title="CANAIS DE FILMES E SERIES" tvg-logo="http://logos.appscms.xyz/logos/2025/comedycentral.png",Comedy Central 4K
@@ -424,6 +472,30 @@ http://64.31.23.207:80/59471019/60849037/514126.m3u8
 http://64.31.23.207:80/59471019/60849037/514128.m3u8
 #EXTINF:-1 group-title="CANAIS HBO" tvg-logo="http://www.fontedecanais.me/logos/canais/hboxtreme.png",HBO Xtreme HD
 http://64.31.23.207:80/59471019/60849037/514129.m3u8
+#EXTINF:-1 group-title="CANAIS HBO" tvg-logo="https://cdn-icons-png.flaticon.com/512/5968/5968611.png",HBO MAX 04
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/206
+#EXTINF:-1 group-title="CANAIS HBO" tvg-logo="https://cdn-icons-png.flaticon.com/512/5968/5968611.png",HBO MAX 06
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/529221
+#EXTINF:-1 group-title="CANAIS HBO" tvg-logo="https://cdn-icons-png.flaticon.com/512/5968/5968611.png",HBO MAX 09
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/541212
+#EXTINF:-1 group-title="CANAIS HBO" tvg-logo="https://cdn-icons-png.flaticon.com/512/5968/5968611.png",HBO MAX 10
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/541213
+#EXTINF:-1 group-title="CANAIS HBO" tvg-logo="https://cdn-icons-png.flaticon.com/512/5968/5968611.png",HBO MAX 11
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/541214
+#EXTINF:-1 group-title="CANAIS HBO" tvg-logo="https://cdn-icons-png.flaticon.com/512/5968/5968611.png",HBO MAX 12
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/541215
+#EXTINF:-1 group-title="CANAIS HBO" tvg-logo="https://cdn-icons-png.flaticon.com/512/5968/5968611.png",HBO MAX 13
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/541216
+#EXTINF:-1 group-title="CANAIS HBO" tvg-logo="https://cdn-icons-png.flaticon.com/512/5968/5968611.png",HBO MAX 14
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/541217
+#EXTINF:-1 group-title="CANAIS HBO" tvg-logo="https://cdn-icons-png.flaticon.com/512/5968/5968611.png",HBO MAX 15
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/541218
+#EXTINF:-1 group-title="CANAIS HBO" tvg-logo="https://cdn-icons-png.flaticon.com/512/5968/5968611.png",HBO MAX 16
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/541219
+#EXTINF:-1 group-title="CANAIS HBO" tvg-logo="https://cdn-icons-png.flaticon.com/512/5968/5968611.png",HBO MAX 17
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/541220
+#EXTINF:-1 group-title="CANAIS HBO" tvg-logo="https://cdn-icons-png.flaticon.com/512/5968/5968611.png",HBO MAX 18
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/541221
 #EXTINF:-1 group-title="CANAIS DE FILMES E SERIES" tvg-logo="http://logos.appscms.xyz/logos/2025/studiouniversal.png",Studio Universal 4K
 http://64.31.23.207:80/59471019/60849037/324392.m3u8
 #EXTINF:-1 group-title="CANAIS TELECINE" tvg-logo="http://logos.appscms.xyz/logos/2025/telecineaction.png",Telecine Action 4K
@@ -438,7 +510,7 @@ http://64.31.23.207:80/59471019/60849037/324396.m3u8
 http://64.31.23.207:80/59471019/60849037/324397.m3u8
 #EXTINF:-1 group-title="CANAIS TELECINE" tvg-logo="http://logos.appscms.xyz/logos/2025/telecinetouch.png",Telecine Touch 4K
 http://64.31.23.207:80/59471019/60849037/324398.m3u8
-#EXTINF:-1 group-title="CANAIS TELECINE" tvg-logo="http://www.imgu.top/logos/UNIVERSAL%20CHANNE.png",Universal Channel 4K
+#EXTINF:-1 group-title="CANAIS TELECINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Universal_Channel_2013.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original",Universal Channel 4K
 http://64.31.23.207:80/59471019/60849037/324399.m3u8
 #EXTINF:-1 group-title="CANAIS DE FILMES E SERIES" tvg-logo="",UNIVERSAL CHANNEL FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/21682.ts
@@ -460,9 +532,9 @@ http://corruptx.org:80/3llohwk4g9/kwf099q30o/9144.ts
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/594020.ts
 #EXTINF:-1 group-title="CANAIS DE FILMES E SERIES" tvg-logo="https://i.postimg.cc/zGzvZC24/tnt-logo-png-14.png",TNT HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/594023.ts
-#EXTINF:-1 group-title="CANAIS DE FILMES E SERIES" tvg-logo="",TCM HD
+#EXTINF:-1 group-title="CANAIS DE FILMES E SERIES" tvg-logo="https://www.seriados.tv.br/wp-content/uploads/2022/04/tcm_27042022_.png",TCM HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/9124.ts
-#EXTINF:-1 group-title="CANAIS DE FILMES E SERIES" tvg-logo="",ASSINATURA HBO
+#EXTINF:-1 group-title="CANAIS DE FILMES E SERIES" tvg-logo="https://t.ctcdn.com.br/ZjwvRNryuiEIO_I0NYG-jyo8y1g=/1200x675/smart/i1036999.png",ASSINATURA HBO
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/13534.ts
 #EXTINF:-1 group-title="CANAIS DE FILMES E SERIES" tvg-logo="",DESLIGADO HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8998.ts
@@ -637,23 +709,23 @@ http://138.204.86.4:8080/DISCOVERY_SCIENCE_HD/index.m3u8
 http://64.31.23.207:80/59471019/60849037/297958.m3u8
 #EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="https://i.imgur.com/6sTkahx.png",Discovery World HD
 http://138.204.86.4:8080/DISCOVERY_WORLD_HD/index.m3u8
-#EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="",CINEMA DISCOVERY FHD
+#EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="https://designconceitual.com.br/wp-content/uploads/2019/04/Discover_2019.jpg",CINEMA DISCOVERY FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8748.ts
-#EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="",DISCOVERY TLC FHD
+#EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="https://i.ytimg.com/vi/IZCWNp19s2g/maxresdefault.jpg",DISCOVERY TLC FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8753.ts
-#EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="",DISCOVERY TLC HD
+#EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="https://i.ytimg.com/vi/IZCWNp19s2g/maxresdefault.jpg",DISCOVERY TLC HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8754.ts
-#EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="",INVESTIGAÇÃO DISCOVERY FHD H.265
+#EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="https://e7.pngegg.com/pngimages/366/430/png-clipart-logo-investigation-discovery-discovery-channel-high-definition-television-television-channel-design-text-poster.png",INVESTIGAÇÃO DISCOVERY FHD H.265
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/91403.ts
-#EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="",INVESTIGAÇÃO DISCOVERY HD
+#EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="https://e7.pngegg.com/pngimages/366/430/png-clipart-logo-investigation-discovery-discovery-channel-high-definition-television-television-channel-design-text-poster.png",INVESTIGAÇÃO DISCOVERY HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8933.ts
-#EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="",DISCOVERY HOME & HEALTH FHD H.265
+#EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTxFZoKSxgvCNzxW15ShiMHECx6QXdaQcLMDg2TGWlxUg2EgP9NEnCqKw0Yoai_pVSFqSUI0-rNqIBCbj3TfTnZxwCTXZyHs5fwPwkRo7lUD6goi14vhpOrOujZONkD6_fGRLVSLqfB7I/s1600/_0040_discovery_hh.png",DISCOVERY HOME & HEALTH FHD H.265
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/91397.ts
-#EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="",DISCOVERY HOME & HEALTH FHD
+#EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTxFZoKSxgvCNzxW15ShiMHECx6QXdaQcLMDg2TGWlxUg2EgP9NEnCqKw0Yoai_pVSFqSUI0-rNqIBCbj3TfTnZxwCTXZyHs5fwPwkRo7lUD6goi14vhpOrOujZONkD6_fGRLVSLqfB7I/s1600/_0040_discovery_hh.png",DISCOVERY HOME & HEALTH FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8739.ts
-#EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="",DISCOVERY CASA E SAÚDE
+#EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTxFZoKSxgvCNzxW15ShiMHECx6QXdaQcLMDg2TGWlxUg2EgP9NEnCqKw0Yoai_pVSFqSUI0-rNqIBCbj3TfTnZxwCTXZyHs5fwPwkRo7lUD6goi14vhpOrOujZONkD6_fGRLVSLqfB7I/s1600/_0040_discovery_hh.png",DISCOVERY CASA E SAÚDE
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/20757.ts
-#EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="",DISCOVERY CASA E SAÚDE HD
+#EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTxFZoKSxgvCNzxW15ShiMHECx6QXdaQcLMDg2TGWlxUg2EgP9NEnCqKw0Yoai_pVSFqSUI0-rNqIBCbj3TfTnZxwCTXZyHs5fwPwkRo7lUD6goi14vhpOrOujZONkD6_fGRLVSLqfB7I/s1600/_0040_discovery_hh.png",DISCOVERY CASA E SAÚDE HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8740.ts
 #EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="https://i.imgur.com/NUFWsJ0.png",Discovery Theater HD
 http://138.204.86.4:8080/DISCOVERY_THEATER_HD/index.m3u8
@@ -780,23 +852,23 @@ http://64.31.23.207:80/59471019/60849037/296917.m3u8
 http://64.31.23.207:80/59471019/60849037/296918.m3u8
 #EXTINF:-1 group-title="CANAIS INFANTIS" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png",Disney+ 05
 http://64.31.23.207:80/59471019/60849037/296919.m3u8
-#EXTINF:-1 group-title="CANAIS INFANTIS" tvg-logo="",DISNEY + 06 HD
+#EXTINF:-1 group-title="CANAIS INFANTIS" tvg-logo="https://t2.tudocdn.net/787953?w=1920",DISNEY + 06 HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169100.ts
-#EXTINF:-1 group-title="CANAIS INFANTIS" tvg-logo="",DISNEY + 08 HD
+#EXTINF:-1 group-title="CANAIS INFANTIS" tvg-logo="https://t2.tudocdn.net/787953?w=1920",DISNEY + 08 HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169102.ts
-#EXTINF:-1 group-title="CANAIS INFANTIS" tvg-logo="",DISNEY + 09 HD
+#EXTINF:-1 group-title="CANAIS INFANTIS" tvg-logo="https://t2.tudocdn.net/787953?w=1920",DISNEY + 09 HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169103.ts
-#EXTINF:-1 group-title="CANAIS INFANTIS" tvg-logo="",TOONSCAST
+#EXTINF:-1 group-title="CANAIS INFANTIS" tvg-logo="https://p1.hiclipart.com/preview/665/946/331/tv-channel-icons-pack-tooncast-color-png-icon-thumbnail.jpg",TOONSCAST
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/125444.ts
-#EXTINF:-1 group-title="CANAIS INFANTIS" tvg-logo="",TOONCAST FHD
+#EXTINF:-1 group-title="CANAIS INFANTIS" tvg-logo="https://p1.hiclipart.com/preview/665/946/331/tv-channel-icons-pack-tooncast-color-png-icon-thumbnail.jpg",TOONCAST FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/125443.ts
-#EXTINF:-1 group-title="CANAIS INFANTIS" tvg-logo="",REDE DE DESENHOS ANIMADOS FHD H.265
+#EXTINF:-1 group-title="CANAIS INFANTIS" tvg-logo="https://e7.pngegg.com/pngimages/1024/187/png-clipart-boomerang-cartoon-network-television-channel-logo-tom-n-jerry-television-angle.png",REDE DE DESENHOS ANIMADOS FHD H.265
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/125439.ts
-#EXTINF:-1 group-title="CANAIS INFANTIS" tvg-logo="",REDE DE DESENHOS ANIMADOS HD²
+#EXTINF:-1 group-title="CANAIS INFANTIS" tvg-logo="https://e7.pngegg.com/pngimages/1024/187/png-clipart-boomerang-cartoon-network-television-channel-logo-tom-n-jerry-television-angle.png",REDE DE DESENHOS ANIMADOS HD²
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/38016.ts
-#EXTINF:-1 group-title="CANAIS INFANTIS" tvg-logo="",ZOOMOO FHD
+#EXTINF:-1 group-title="CANAIS INFANTIS" tvg-logo="https://recreio.com.br/wp-content/uploads/animacoes/_zoomoo_kids_capa.jpg",ZOOMOO FHD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/832
-#EXTINF:-1 group-title="CANAIS INFANTIS" tvg-logo="",ZOOMOO HD
+#EXTINF:-1 group-title="CANAIS INFANTIS" tvg-logo="https://recreio.com.br/wp-content/uploads/animacoes/_zoomoo_kids_capa.jpg",ZOOMOO HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/833
 #EXTINF:-1 group-title="CANAIS INFANTIS" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/clouding.png",Clouding
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w459304988.m3u8
@@ -1072,17 +1144,17 @@ http://shd13.oneplayer.site/SHD13/231001/1x6.mp4
 http://shd13.oneplayer.site/SHD13/231001/1x7.mp4
 #EXTINF:-1 group-title="Series | Carême – O Rebelde da Culinária S01" tvg-logo="https://i.imgur.com/tsqM3Ib.png",S01 E08
 http://shd13.oneplayer.site/SHD13/231001/1x8.mp4
-#EXTINF:-1 group-title="Série | O MELHOR INFARTO DA MINHA VIDA S01" tvg-logo="https://i.imgur.com/PM9qq0N",S01 E01
+#EXTINF:-1 group-title="Série | O MELHOR INFARTO DA MINHA VIDA S01" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTQzY2Q0MzMtZWI1My00NjBhLTkyYjMtOGRjOTA1MWE2NzRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",S01 E01
 http://shd12.oneplayer.site/token/SHD12/280409/1x1.mp4
-#EXTINF:-1 group-title="Série | O MELHOR INFARTO DA MINHA VIDA S01" tvg-logo="https://i.imgur.com/PM9qq0N",S01 E02
+#EXTINF:-1 group-title="Série | O MELHOR INFARTO DA MINHA VIDA S01" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTQzY2Q0MzMtZWI1My00NjBhLTkyYjMtOGRjOTA1MWE2NzRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",S01 E02
 http://shd12.oneplayer.site/token/SHD12/280409/1x2.mp4
-#EXTINF:-1 group-title="Série | O MELHOR INFARTO DA MINHA VIDA S01" tvg-logo="https://i.imgur.com/PM9qq0N",S01 E03
+#EXTINF:-1 group-title="Série | O MELHOR INFARTO DA MINHA VIDA S01" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTQzY2Q0MzMtZWI1My00NjBhLTkyYjMtOGRjOTA1MWE2NzRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",S01 E03
 http://shd12.oneplayer.site/token/SHD12/280409/1x3.mp4
-#EXTINF:-1 group-title="Série | O MELHOR INFARTO DA MINHA VIDA S01" tvg-logo="https://i.imgur.com/PM9qq0N",S01 E04
+#EXTINF:-1 group-title="Série | O MELHOR INFARTO DA MINHA VIDA S01" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTQzY2Q0MzMtZWI1My00NjBhLTkyYjMtOGRjOTA1MWE2NzRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",S01 E04
 http://shd12.oneplayer.site/token/SHD12/280409/1x4.mp4
-#EXTINF:-1 group-title="Série | O MELHOR INFARTO DA MINHA VIDA S01" tvg-logo="https://i.imgur.com/PM9qq0N",S01 E05
+#EXTINF:-1 group-title="Série | O MELHOR INFARTO DA MINHA VIDA S01" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTQzY2Q0MzMtZWI1My00NjBhLTkyYjMtOGRjOTA1MWE2NzRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",S01 E05
 http://shd12.oneplayer.site/token/SHD12/280409/1x5.mp4
-#EXTINF:-1 group-title="Série | O MELHOR INFARTO DA MINHA VIDA S01" tvg-logo="https://i.imgur.com/PM9qq0N",S01 E06
+#EXTINF:-1 group-title="Série | O MELHOR INFARTO DA MINHA VIDA S01" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTQzY2Q0MzMtZWI1My00NjBhLTkyYjMtOGRjOTA1MWE2NzRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",S01 E06
 http://shd12.oneplayer.site/token/SHD12/280409/1x6.mp4
 #EXTINF:-1 group-title="Série | SENNA S01" tvg-logo="https://imgur.com/HPtzOa3.png",S01 E01
 http://shd12.oneplayer.site/token/SHD12/211039/1x1.mp4
@@ -2400,15 +2472,15 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt0090305.mp4
 
 ////////////////////////////////////////////////// CANAIS AGRONEGOCIO    \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
-#EXTINF:-1 group-title="CANAIS AGRONEGOCIO" tvg-logo="",AgroMais SD
+#EXTINF:-1 group-title="CANAIS AGRONEGOCIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRyhZsNCkcqLrt_Ar_jStDGzt2JrQ5iY_s7rINRq5AoA&s",AgroMais SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/71767.ts
-#EXTINF:-1 group-title="CANAIS AGRONEGOCIO" tvg-logo="",Canal do Boi FHD
+#EXTINF:-1 group-title="CANAIS AGRONEGOCIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZqFI68tEK2O3qBcNRKVC_GWsHuoPS1nY_tNcJeRTJB39OyP8aiDDkI3s&s=10",Canal do Boi FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/71820.ts
-#EXTINF:-1 group-title="CANAIS AGRONEGOCIO" tvg-logo="",Canal do Boi HD
+#EXTINF:-1 group-title="CANAIS AGRONEGOCIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZqFI68tEK2O3qBcNRKVC_GWsHuoPS1nY_tNcJeRTJB39OyP8aiDDkI3s&s=10",Canal do Boi HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/71821.ts
-#EXTINF:-1 group-title="CANAIS AGRONEGOCIO" tvg-logo="",Canal Rural FHD
+#EXTINF:-1 group-title="CANAIS AGRONEGOCIO" tvg-logo="https://imagens-cdn.canalrural.com.br/2024/11/1415350686406.jpg",Canal Rural FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/178512.ts
-#EXTINF:-1 group-title="CANAIS AGRONEGOCIO" tvg-logo="",Canal Rural HD
+#EXTINF:-1 group-title="CANAIS AGRONEGOCIO" tvg-logo="https://imagens-cdn.canalrural.com.br/2024/11/1415350686406.jpg",Canal Rural HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/178513.ts
 
 
@@ -2422,6 +2494,9 @@ http://tjtor8411.com:80/Osiel123/Felicidade321/72214.ts
 http://tjtor8411.com:80/Osiel123/Felicidade321/72295.ts
 #EXTINF:-1 group-title="CANAIS RELIGIOSOS" tvg-logo="https://i.postimg.cc/Kjy5NpcY/universal-12052025201133499.jpg",TV Universal 4K
 http://tjtor8411.com:80/Osiel123/Felicidade321/90632.ts
+#EXTINF:-1 group-title="CANAIS RELIGIOSOS" tvg-logo="https://play-lh.googleusercontent.com/2PTax9Z9aI-BQdF3J7KLZppigmdCN7uKIo3kpqEeMHqEs--eKvmqSxi6d8FUw7i9ephGiZ5frywY-Lc1B6IL-oQ",CANÇÃO NOVA SD
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/458
+
 
 
 ////////////////////////////////////////////////// CANAIS 24 horas animes  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
@@ -2512,6 +2587,24 @@ http://tjtor8411.com:80/Osiel123/Felicidade321/137136.ts
 
 ////////////////////////////////////////////////// CANAIS 24 HORAS FILME  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
+#EXTINF:-1 group-title="CANAIS 24 HORAS FILME" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIAknxtns0zPPnVZ31TQdLZM84VhUyI6TmAz4SXNVJbQ&s=10",[24H] [Filmes] AÇÃO
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/553660
+#EXTINF:-1 group-title="CANAIS 24 HORAS FILME" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIAknxtns0zPPnVZ31TQdLZM84VhUyI6TmAz4SXNVJbQ&s=10",[24H] [Filmes]BRASIL
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/553661
+#EXTINF:-1 group-title="CANAIS 24 HORAS FILME" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIAknxtns0zPPnVZ31TQdLZM84VhUyI6TmAz4SXNVJbQ&s=10",[24H] [Filmes]TERROR
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/553662
+#EXTINF:-1 group-title="CANAIS 24 HORAS FILME" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIAknxtns0zPPnVZ31TQdLZM84VhUyI6TmAz4SXNVJbQ&s=10",[24H] [Filmes]COMÉDIA
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/553663
+#EXTINF:-1 group-title="CANAIS 24 HORAS FILME" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIAknxtns0zPPnVZ31TQdLZM84VhUyI6TmAz4SXNVJbQ&s=10",[24H] [Filmes]CRIME
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/553664
+#EXTINF:-1 group-title="CANAIS 24 HORAS FILME" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIAknxtns0zPPnVZ31TQdLZM84VhUyI6TmAz4SXNVJbQ&s=10",[24H] [Filmes]FAMÍLIA
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/553665
+#EXTINF:-1 group-title="CANAIS 24 HORAS FILME" tvg-logo="https://turbologo.com/articles/wp-content/uploads/2019/11/star-wars-1977-logo.png",[24H] [Filmes] CINEMA STAR WARS
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/88965
+#EXTINF:-1 group-title="CANAIS 24 HORAS FILME" tvg-logo="https://img.magnific.com/vetores-gratis/filmes-online-e-banner-de-entretenimento_1419-2246.jpg?semt=ais_hybrid&w=740&q=80",[24H] [Filmes] CINE FICÇÃO
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/88966
+#EXTINF:-1 group-title="CANAIS 24 HORAS FILME" tvg-logo="https://recreio.com.br/wp-content/uploads/2024/07/marvel_capa.jpg",[24H] [Filmes] CINE MARVEL
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/88967
 #EXTINF:-1 group-title="CANAIS 24 HORAS FILME" tvg-logo="https://i.postimg.cc/GhMSshLX/Minha-Mae-e-uma-Peca.jpg",[24H] [Filmes] Minha Mae E Uma Peca
 http://tjtor8411.com:80/Osiel123/Felicidade321/141501.ts
 
@@ -2521,603 +2614,580 @@ http://tjtor8411.com:80/Osiel123/Felicidade321/141501.ts
 http://tjtor8411.com:80/Osiel123/Felicidade321/135544.ts
 #EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="https://static.wikia.nocookie.net/vozesportuguesas/images/a/ae/Alien_TV.jpg/revision/latest?cb=20201230213023&path-prefix=pt",[24H] Alien TV
 http://tjtor8411.com:80/Osiel123/Felicidade321/140775.ts
-#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",
-
-
-
-#EXTINF:-1 ,[24H] Andy Panda
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkWOkocT05I9lwgK5vv1AXJc-lyJDrho77tKOXPzkWg&s",[24H] Andy Panda
 http://tjtor8411.com:80/Osiel123/Felicidade321/140776.ts
-#EXTINF:-1 ,[24H] Aaah!!! Monstros
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0jRTV8OvO14T_YAI0qjKlq-ylbDijkmtKH7OHWZ6cwg&s=10",Aaah!!! Monstros
 http://tjtor8411.com:80/Osiel123/Felicidade321/135549.ts
-#EXTINF:-1 ,[24H] As Aventura de Tom e Jerry
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkbTczjBZCo5M2pZGYHiUdZ4p64QqPAEkW2cFMMuuuIw&s=10",[24H] As Aventura de Tom e Jerry
 http://tjtor8411.com:80/Osiel123/Felicidade321/136815.ts
-#EXTINF:-1 ,[24H] As Aventuras de Jackie Chan
-http://tjtor8411.com:80/Osiel123/Felicidade321/135542.ts
-#EXTINF:-1 ,[24H] As Aventuras do Batman
-http://tjtor8411.com:80/Osiel123/Felicidade321/135543.ts
-#EXTINF:-1 ,[24H] As Aventuras do Gato de Botas
-http://tjtor8411.com:80/Osiel123/Felicidade321/140528.ts
-#EXTINF:-1 ,[24H] As Meninas Superpoderosas
-http://tjtor8411.com:80/Osiel123/Felicidade321/137138.ts
-EXTINF:-1 ,[24H] Como Tartarugas Ninja (1987)
-http://tjtor8411.com:80/Osiel123/Felicidade321/150494.ts
-#EXTINF:-1 ,[24H] Como Tartarugas Ninja [S01]
-http://tjtor8411.com:80/Osiel123/Felicidade321/151613.ts
-#EXTINF:-1 ,[24H] As Terríveis Aventuras de Billy e Mandy
-http://tjtor8411.com:80/Osiel123/Felicidade321/135551.ts
-#EXTINF:-1 ,[24H] As Novas Aventuras do Superman
-http://tjtor8411.com:80/Osiel123/Felicidade321/135554.ts
-#EXTINF:-1 ,[24H] As Novas Aventuras do Ursinho Puff
-http://tjtor8411.com:80/Osiel123/Felicidade321/135557.ts
-#EXTINF:-1 ,[24H] Fluxo de Éon
-http://tjtor8411.com:80/Osiel123/Felicidade321/136697.ts
-#EXTINF:-1 ,[24H] A Turma do Manda Chuva
-http://tjtor8411.com:80/Osiel123/Felicidade321/135539.ts
-#EXTINF:-1 ,[24H] Baby Looney Tunes
-http://tjtor8411.com:80/Osiel123/Felicidade321/138813.ts
-#EXTINF:-1 ,[24H] Bake Off Brasil Celebridades
-http://tjtor8411.com:80/Osiel123/Felicidade321/138017.ts
-#EXTINF:-1 ,[24H] Barbie Dreamhouse Adventures
-http://tjtor8411.com:80/Osiel123/Felicidade321/135559.ts
-#EXTINF:-1 ,[24H] Barney e Seus Amigos
-http://tjtor8411.com:80/Osiel123/Felicidade321/141494.ts
-#EXTINF:-1 ,[24H] Ben 10 [S01]
-http://tjtor8411.com:80/Osiel123/Felicidade321/138715.ts
-#EXTINF:-1 ,[24H] Bob Esponja Calca Quadrada [S07]
-http://tjtor8411.com:80/Osiel123/Felicidade321/138071.ts
-#EXTINF:-1 ,[24H] Bojack Horseman
-http://tjtor8411.com:80/Osiel123/Felicidade321/136694.ts
-#EXTINF:-1 ,[24H] Caçadores de Bugs
-http://tjtor8411.com:80/Osiel123/Felicidade321/138774.ts
-#EXTINF:-1 ,[24H] Bibo Pai e Bobi Filho
-http://tjtor8411.com:80/Osiel123/Felicidade321/145377.ts
-#EXTINF:-1 ,[24H] Caçadores de Dinossauros
-http://tjtor8411.com:80/Osiel123/Felicidade321/138775.ts
-#EXTINF:-1 ,[24H] Caverna do Dragão
-http://tjtor8411.com:80/Osiel123/Felicidade321/135454.ts
-#EXTINF:-1 ,[24H] Chapolin Colorado [S06]
-http://tjtor8411.com:80/Osiel123/Felicidade321/138005.ts
-#EXTINF:-1 ,[24H] Chaves Em Desenho Animado
-http://tjtor8411.com:80/Osiel123/Felicidade321/140735.ts
-#EXTINF:-1 ,[24H] Chaves [S06]
-http://tjtor8411.com:80/Osiel123/Felicidade321/137144.ts
-#EXTINF:-1 ,[24H] Cocorico
-http://tjtor8411.com:80/Osiel123/Felicidade321/156653.ts
-#EXTINF:-1 ,[24H] Corrida Maluca
-http://tjtor8411.com:80/Osiel123/Felicidade321/145378.ts
-#EXTINF:-1 ,[24H] Dennis o Pimentinha
-http://tjtor8411.com:80/Osiel123/Felicidade321/135500.ts
-#EXTINF:-1 ,[24H] Desenhos Bíblicos Histórias Inesquecíveis
-http://tjtor8411.com:80/Osiel123/Felicidade321/139277.ts
-#EXTINF:-1 ,[24H] Cavalo de Fogo
-http://tjtor8411.com:80/Osiel123/Felicidade321/137613.ts
-#EXTINF:-1 ,[24H] Dora Aventureira
-http://tjtor8411.com:80/Osiel123/Felicidade321/151949.ts
-#EXTINF:-1 ,[24H] Doug
-http://tjtor8411.com:80/Osiel123/Felicidade321/135552.ts
-#EXTINF:-1 ,[24H] Ei Arnold
-http://tjtor8411.com:80/Osiel123/Felicidade321/138946.ts
-#EXTINF:-1 ,[24H] Formiga Atômica
-http://tjtor8411.com:80/Osiel123/Felicidade321/135545.ts
-#EXTINF:-1 ,[24H] Freakazoid Alto Forte e Maluco
-http://tjtor8411.com:80/Osiel123/Felicidade321/162374.ts
-#EXTINF:-1 ,[24H] Garfield e Seus Amigos
-http://tjtor8411.com:80/Osiel123/Felicidade321/138026.ts
-#EXTINF:-1 ,[24H] Gasparzinho O Fantasminha Camarada
-http://tjtor8411.com:80/Osiel123/Felicidade321/151619.ts
-#EXTINF:-1 ,[24H] Gus O Pequeno Cavaleiro
-http://tjtor8411.com:80/Osiel123/Felicidade321/150112.ts
-#EXTINF:-1 ,[24H] He Man e Os Defensores do Universo
-http://tjtor8411.com:80/Osiel123/Felicidade321/135514.ts
-#EXTINF:-1 ,[24H] Histórias Animadas da Bíblia - Novo Testamento
-http://tjtor8411.com:80/Osiel123/Felicidade321/137428.ts
-#EXTINF:-1 ,[24H] Histórias Animadas da Bíblia - Velho Testamento
-http://tjtor8411.com:80/Osiel123/Felicidade321/137427.ts
-#EXTINF:-1 ,[24H] Homem Aranha da Marvel [S02]
-http://tjtor8411.com:80/Osiel123/Felicidade321/155452.ts
-#EXTINF:-1 ,[24H] Hora de Aventura [S08]
-http://tjtor8411.com:80/Osiel123/Felicidade321/135519.ts
-#EXTINF:-1 ,[24H] Hora do Recreio
-http://tjtor8411.com:80/Osiel123/Felicidade321/139278.ts
-#EXTINF:-1 ,[24H] Hotel Transilvânia Série A
-http://tjtor8411.com:80/Osiel123/Felicidade321/135512.ts
-#EXTINF:-1 ,[24H] Inspetor Bugiganga (1983)
-http://tjtor8411.com:80/Osiel123/Felicidade321/156655.ts
-#EXTINF:-1 ,[24H] Inspetor Bugiganga (2015)
-http://tjtor8411.com:80/Osiel123/Felicidade321/156656.ts
-#EXTINF:-1 ,[24H] Irmão do Jorel
-http://tjtor8411.com:80/Osiel123/Felicidade321/135567.ts
-#EXTINF:-1 ,[24H] Jellystone
-http://tjtor8411.com:80/Osiel123/Felicidade321/156657.ts
-#EXTINF:-1 ,[24H] Johnny Bravo
-http://tjtor8411.com:80/Osiel123/Felicidade321/150495.ts
-#EXTINF:-1 ,[24H] Johnny Test
-http://tjtor8411.com:80/Osiel123/Felicidade321/139298.ts
-#EXTINF:-1 ,[24H] Jonny Quest
-http://tjtor8411.com:80/Osiel123/Felicidade321/149550.ts
-#EXTINF:-1 ,[24H] Jurassic World Acampamento Jurássico
-http://tjtor8411.com:80/Osiel123/Felicidade321/135561.ts
-#EXTINF:-1 ,[24H] Kamp Koral Bob Esponja Primeiros Anos
-http://tjtor8411.com:80/Osiel123/Felicidade321/135562.ts
-#EXTINF:-1 ,[24H] Kick Buttowski
-http://tjtor8411.com:80/Osiel123/Felicidade321/140533.ts
-#EXTINF:-1 ,[24H] Kung Fu Panda Lendas do Dragão Guerreiro
-http://tjtor8411.com:80/Osiel123/Felicidade321/138948.ts
-#EXTINF:-1 ,[24H] Kung Fu Panda O Cavaleiro Dragão
-http://tjtor8411.com:80/Osiel123/Felicidade321/166346.ts
-#EXTINF:-1 ,[24H] Liga da Justiça Sem Limites
-http://tjtor8411.com:80/Osiel123/Felicidade321/138950.ts
-#EXTINF:-1 ,[24H] Liga da Justiça [S01]
-http://tjtor8411.com:80/Osiel123/Felicidade321/149551.ts
-#EXTINF:-1 ,[24H] Luluzinha
-http://tjtor8411.com:80/Osiel123/Felicidade321/149604.ts
-#EXTINF:-1 ,[24H] Marvels MODOK
-http://tjtor8411.com:80/Osiel123/Felicidade321/136816.ts
-#EXTINF:-1 ,[24H] Masha e o Urso
-http://tjtor8411.com:80/Osiel123/Felicidade321/137619.ts
-#EXTINF:-1 ,[24H] Mickey e Donald
-http://tjtor8411.com:80/Osiel123/Felicidade321/140742.ts
-#EXTINF:-1 ,[24H] Milo
-http://tjtor8411.com:80/Osiel123/Felicidade321/162375.ts
-#EXTINF:-1 ,[24H] Mira A Detetive do Reino
-http://tjtor8411.com:80/Osiel123/Felicidade321/166347.ts
-#EXTINF:-1 ,[24H] Momonstros
-http://tjtor8411.com:80/Osiel123/Felicidade321/145379.ts
-#EXTINF:-1 ,[24H] Mucha Lucha
-http://tjtor8411.com:80/Osiel123/Felicidade321/138952.ts
-#EXTINF:-1 ,[24H] Mundo Bita e a Natureza
-http://tjtor8411.com:80/Osiel123/Felicidade321/135498.ts
-#EXTINF:-1 ,[24H] Mundo Bita e as Brincadeiras
-http://tjtor8411.com:80/Osiel123/Felicidade321/135497.ts
-#EXTINF:-1 ,[24H] Mundo Bita e o Corpo Humano
-http://tjtor8411.com:80/Osiel123/Felicidade321/135496.ts
-#EXTINF:-1 ,[24H] Mundo Bita e o Nosso Dia
-http://tjtor8411.com:80/Osiel123/Felicidade321/135495.ts
-#EXTINF:-1 ,[24H] Mundo Bita e os Animais
-http://tjtor8411.com:80/Osiel123/Felicidade321/135494.ts
-#EXTINF:-1 ,[24H] O Acampamento de Lazlo
-http://tjtor8411.com:80/Osiel123/Felicidade321/150113.ts
-#EXTINF:-1 ,[24H] O Chefinho De Volta aos Negócios
-http://tjtor8411.com:80/Osiel123/Felicidade321/138953.ts
-#EXTINF:-1 ,[24H] O Incrivel Mundo de Gumball
-http://tjtor8411.com:80/Osiel123/Felicidade321/166348.ts
-#EXTINF:-1 ,[24H] O Laboratório de Dexter
-http://tjtor8411.com:80/Osiel123/Felicidade321/150114.ts
-#EXTINF:-1 ,[24H] O Marinheiro Popeye [S03]
-http://tjtor8411.com:80/Osiel123/Felicidade321/145945.ts
-#EXTINF:-1 ,[24H] O Maskara
-http://tjtor8411.com:80/Osiel123/Felicidade321/145380.ts
-#EXTINF:-1 ,[24H] O Mundo Maravilhoso de Mickey Mouse
-http://tjtor8411.com:80/Osiel123/Felicidade321/151621.ts
-#EXTINF:-1 ,[24H] O Novo Show do Pica Pau
-http://tjtor8411.com:80/Osiel123/Felicidade321/145381.ts
-#EXTINF:-1 ,[24H] O Show de Tom e Jerry
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] O Show de Tom e Jerry
 http://tjtor8411.com:80/Osiel123/Felicidade321/140743.ts
-#EXTINF:-1 ,[24H] O Show do Garfield
-http://tjtor8411.com:80/Osiel123/Felicidade321/137429.ts
-#EXTINF:-1 ,[24H] Odo
-http://tjtor8411.com:80/Osiel123/Felicidade321/150491.ts
-#EXTINF:-1 ,[24H] Operação Big Hero
-http://tjtor8411.com:80/Osiel123/Felicidade321/137430.ts
-#EXTINF:-1 ,[24H] Os Apuros de Penélope Charmosa
-http://tjtor8411.com:80/Osiel123/Felicidade321/162376.ts
-#EXTINF:-1 ,[24H] Os Backyardigans
-http://tjtor8411.com:80/Osiel123/Felicidade321/141495.ts
-#EXTINF:-1 ,[24H] Os Busbys + 5
-http://tjtor8411.com:80/Osiel123/Felicidade321/151622.ts
-#EXTINF:-1 ,[24H] Os Herculoides
-http://tjtor8411.com:80/Osiel123/Felicidade321/137164.ts
-#EXTINF:-1 ,[24H] Os Mistérios de Frajola e Piu Piu
-http://tjtor8411.com:80/Osiel123/Felicidade321/138027.ts
-#EXTINF:-1 ,[24H] Os Mistérios de Frajola e Piu Piu
-http://tjtor8411.com:80/Osiel123/Felicidade321/166349.ts
-#EXTINF:-1 ,[24H] Os Incriveis Espioes
-http://tjtor8411.com:80/Osiel123/Felicidade321/140744.ts
-#EXTINF:-1 ,[24H] Os Jetsons
-http://tjtor8411.com:80/Osiel123/Felicidade321/137165.ts
-#EXTINF:-1 ,[24H] Os Padrinhos Mágicos
-http://tjtor8411.com:80/Osiel123/Felicidade321/135546.ts
-#EXTINF:-1 ,[24H] Os Simpsons [S26]
-http://tjtor8411.com:80/Osiel123/Felicidade321/135576.ts
-#EXTINF:-1 ,[24H] Os Smurfs
-http://tjtor8411.com:80/Osiel123/Felicidade321/136817.ts
-#EXTINF:-1 ,[24H] Pestinha e Feroz
-http://tjtor8411.com:80/Osiel123/Felicidade321/135501.ts
-#EXTINF:-1 ,[24H] Pica Pau
-http://tjtor8411.com:80/Osiel123/Felicidade321/136821.ts
-#EXTINF:-1 ,[24H] Pocoyo
-http://tjtor8411.com:80/Osiel123/Felicidade321/137435.ts
-#EXTINF:-1 ,[24H] Rua Dalmatas 101
-http://tjtor8411.com:80/Osiel123/Felicidade321/137439.ts
-#EXTINF:-1 ,[24H] Rugrats Os Anjinhos
-http://tjtor8411.com:80/Osiel123/Felicidade321/149539.ts
-#EXTINF:-1 ,[24H] South Park [S05]
-http://tjtor8411.com:80/Osiel123/Felicidade321/137035.ts
-#EXTINF:-1 ,[24H] Star vs. As Forças do Mal [S02]
-http://tjtor8411.com:80/Osiel123/Felicidade321/137061.ts
-#EXTINF:-1 ,[24H] Star Wars A Guerra dos Clones [S04]
-http://tjtor8411.com:80/Osiel123/Felicidade321/137067.ts
-#EXTINF:-1 ,[24H] Star Wars Rebels [S01]
-http://tjtor8411.com:80/Osiel123/Felicidade321/137072.ts
-#EXTINF:-1 ,[24H] Super Amigos
-http://tjtor8411.com:80/Osiel123/Felicidade321/149605.ts
-#EXTINF:-1 ,[24H] Superman A Série Animada [S02]
-http://tjtor8411.com:80/Osiel123/Felicidade321/137085.ts
-#EXTINF:-1 ,[24H] Supermansion [S03]
-http://tjtor8411.com:80/Osiel123/Felicidade321/149542.ts
-#EXTINF:-1 ,[24H] O Show do Archie
-http://tjtor8411.com:80/Osiel123/Felicidade321/145947.ts
-#EXTINF:-1 ,[24H] ThunderCats (2011)
-http://tjtor8411.com:80/Osiel123/Felicidade321/135489.ts
-#EXTINF:-1 ,[24H] Tiny Toon Aventuras
-http://tjtor8411.com:80/Osiel123/Felicidade321/166351.ts
-#EXTINF:-1 ,[24H] Topo Gigio
-http://tjtor8411.com:80/Osiel123/Felicidade321/162378.ts
-#EXTINF:-1 ,[24H] Guerra dos Transformers por Cybertron O Nascer da Terra
-http://tjtor8411.com:80/Osiel123/Felicidade321/135503.ts
-#EXTINF:-1 ,[24H] Três Espias Demais
-http://tjtor8411.com:80/Osiel123/Felicidade321/140758.ts
-#EXTINF:-1 ,[24H] Tubacao
-http://tjtor8411.com:80/Osiel123/Felicidade321/135505.ts
-#EXTINF:-1 ,[24H] Uma Família da Pesada [S12]
-http://tjtor8411.com:80/Osiel123/Felicidade321/155465.ts
-#EXTINF:-1 ,[24H] Vampirina
-http://tjtor8411.com:80/Osiel123/Felicidade321/138941.ts
-#EXTINF:-1 ,[24H] Velozes e Furiosos Espiões do Asfalto
-http://tjtor8411.com:80/Osiel123/Felicidade321/138942.ts
-#EXTINF:-1 ,[24H] X Men Série Animada
-http://tjtor8411.com:80/Osiel123/Felicidade321/137173.ts
-#EXTINF:-1 ,[24H] Arlequina
-http://tjtor8411.com:80/Osiel123/Felicidade321/223833.ts
-#EXTINF:-1 ,[24H] Opostos Solares
-http://tjtor8411.com:80/Osiel123/Felicidade321/223835.ts
-#EXTINF:-1 ,[24H] Sr. Bean
-http://tjtor8411.com:80/Osiel123/Felicidade321/223841.ts
-#EXTINF:-1 ,Adult Swim H265
-http://tjtor8411.com:80/Osiel123/Felicidade321/251961.ts
-#EXTINF:-1 ,[24H] A Guarda do Leão [S01]
-http://tjtor8411.com:80/Osiel123/Felicidade321/306832.ts
-#EXTINF:-1 ,[24H] Biduzidos
-http://tjtor8411.com:80/Osiel123/Felicidade321/306841.ts
-#EXTINF:-1 ,[24H] Construtor Bob O
-http://tjtor8411.com:80/Osiel123/Felicidade321/306842.ts
-#EXTINF:-1 ,[24H] Monstros no Trabalho
-http://tjtor8411.com:80/Osiel123/Felicidade321/306855.ts
-#EXTINF:-1 ,[24H] Doug O Robo Curioso
-http://tjtor8411.com:80/Osiel123/Felicidade321/306843.ts
-#EXTINF:-1 ,[24H] Futebol de Rua
-http://tjtor8411.com:80/Osiel123/Felicidade321/306847.ts
-#EXTINF:-1 ,[24H] Garota da Lua e o Dinossauro Demonio
-http://tjtor8411.com:80/Osiel123/Felicidade321/306848.ts
-#EXTINF:-1 ,[24H] Lilo e Stitch Uma Série
-http://tjtor8411.com:80/Osiel123/Felicidade321/306851.ts
-#EXTINF:-1 ,[24H] Os Ursinhos Gummi
-http://tjtor8411.com:80/Osiel123/Felicidade321/306857.ts
-#EXTINF:-1 ,[24H] Pinha e Pony
-http://tjtor8411.com:80/Osiel123/Felicidade321/306859.ts
-#EXTINF:-1 ,[24H] Star Wars Aventuras dos Jovens Jedi
-http://tjtor8411.com:80/Osiel123/Felicidade321/306863.ts
-#EXTINF:-1 ,[24H] O Mundo de Greg [S01]
-http://tjtor8411.com:80/Osiel123/Felicidade321/375073.ts
-#EXTINF:-1 ,[24H] Yo Gabba Gabbalândia!
-http://tjtor8411.com:80/Osiel123/Felicidade321/371462.ts
-#EXTINF:-1 ,[24H] Wylde Pak
-http://tjtor8411.com:80/Osiel123/Felicidade321/371461.ts
-#EXTINF:-1 ,[24H] O Mundo Maravilhosamente Estranho de Gumball
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] As Aventuras de Jackie Chan
+http://tjtor8411.com:80/Osiel123/Felicidade321/135542.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",24H] As Aventuras do Batman
+http://tjtor8411.com:80/Osiel123/Felicidade321/135543.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] As Aventuras do Gato de Botas
+http://tjtor8411.com:80/Osiel123/Felicidade321/140528.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] As Meninas Superpoderosas
+http://tjtor8411.com:80/Osiel123/Felicidade321/137138.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Como Tartarugas Ninja (1987)
+http://tjtor8411.com:80/Osiel123/Felicidade321/150494.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Como Tartarugas Ninja [S01]
+http://tjtor8411.com:80/Osiel123/Felicidade321/151613.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] As Terríveis Aventuras de Billy e Mandy
+http://tjtor8411.com:80/Osiel123/Felicidade321/135551.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] As Novas Aventuras do Superman
+http://tjtor8411.com:80/Osiel123/Felicidade321/135554.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] As Novas Aventuras do Ursinho Puff
+http://tjtor8411.com:80/Osiel123/Felicidade321/135557.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Fluxo de Éon
+http://tjtor8411.com:80/Osiel123/Felicidade321/136697.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] A Turma do Manda Chuva
+http://tjtor8411.com:80/Osiel123/Felicidade321/135539.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Baby Looney Tunes
+http://tjtor8411.com:80/Osiel123/Felicidade321/138813.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Bake Off Brasil Celebridades
+http://tjtor8411.com:80/Osiel123/Felicidade321/138017.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Barbie Dreamhouse Adventures
+http://tjtor8411.com:80/Osiel123/Felicidade321/135559.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Barney e Seus Amigos
+http://tjtor8411.com:80/Osiel123/Felicidade321/141494.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Ben 10 [S01]
+http://tjtor8411.com:80/Osiel123/Felicidade321/138715.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Bob Esponja Calca Quadrada [S07]
+http://tjtor8411.com:80/Osiel123/Felicidade321/138071.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Bojack Horseman
+http://tjtor8411.com:80/Osiel123/Felicidade321/136694.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Caçadores de Bugs
+http://tjtor8411.com:80/Osiel123/Felicidade321/138774.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Bibo Pai e Bobi Filho
+http://tjtor8411.com:80/Osiel123/Felicidade321/145377.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Caçadores de Dinossauros
+http://tjtor8411.com:80/Osiel123/Felicidade321/138775.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Caverna do Dragão
+http://tjtor8411.com:80/Osiel123/Felicidade321/135454.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Chapolin Colorado [S06]
+http://tjtor8411.com:80/Osiel123/Felicidade321/138005.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Chaves Em Desenho Animado
+http://tjtor8411.com:80/Osiel123/Felicidade321/140735.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Chaves [S06]
+http://tjtor8411.com:80/Osiel123/Felicidade321/137144.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Cocorico
+http://tjtor8411.com:80/Osiel123/Felicidade321/156653.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Corrida Maluca
+http://tjtor8411.com:80/Osiel123/Felicidade321/145378.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Dennis o Pimentinha
+http://tjtor8411.com:80/Osiel123/Felicidade321/135500.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Desenhos Bíblicos Histórias Inesquecíveis
+http://tjtor8411.com:80/Osiel123/Felicidade321/139277.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Histórias Animadas da Bíblia - Novo Testamento
+http://tjtor8411.com:80/Osiel123/Felicidade321/137428.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Histórias Animadas da Bíblia - Velho Testamento
+http://tjtor8411.com:80/Osiel123/Felicidade321/137427.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Cavalo de Fogo
+http://tjtor8411.com:80/Osiel123/Felicidade321/137613.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Dora Aventureira
+http://tjtor8411.com:80/Osiel123/Felicidade321/151949.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Doug
+http://tjtor8411.com:80/Osiel123/Felicidade321/135552.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Ei Arnold
+http://tjtor8411.com:80/Osiel123/Felicidade321/138946.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Formiga Atômica
+http://tjtor8411.com:80/Osiel123/Felicidade321/135545.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Freakazoid Alto Forte e Maluco
+http://tjtor8411.com:80/Osiel123/Felicidade321/162374.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Garfield e Seus Amigos
+http://tjtor8411.com:80/Osiel123/Felicidade321/138026.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Gasparzinho O Fantasminha Camarada
+http://tjtor8411.com:80/Osiel123/Felicidade321/151619.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Gus O Pequeno Cavaleiro
+http://tjtor8411.com:80/Osiel123/Felicidade321/150112.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] He Man e Os Defensores do Universo
+http://tjtor8411.com:80/Osiel123/Felicidade321/135514.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Homem Aranha da Marvel [S02]
+http://tjtor8411.com:80/Osiel123/Felicidade321/155452.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Hora de Aventura [S08]
+http://tjtor8411.com:80/Osiel123/Felicidade321/135519.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Hora do Recreio
+http://tjtor8411.com:80/Osiel123/Felicidade321/139278.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Hotel Transilvânia Série A
+http://tjtor8411.com:80/Osiel123/Felicidade321/135512.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Inspetor Bugiganga (1983)
+http://tjtor8411.com:80/Osiel123/Felicidade321/156655.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Inspetor Bugiganga (2015)
+http://tjtor8411.com:80/Osiel123/Felicidade321/156656.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Irmão do Jorel
+http://tjtor8411.com:80/Osiel123/Felicidade321/135567.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Irmão do Jorel
+http://tjtor8411.com:80/Osiel123/Felicidade321/135567.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Jellystone
+http://tjtor8411.com:80/Osiel123/Felicidade321/156657.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Johnny Bravo
+http://tjtor8411.com:80/Osiel123/Felicidade321/150495.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Johnny Test
+http://tjtor8411.com:80/Osiel123/Felicidade321/139298.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Jonny Quest
+http://tjtor8411.com:80/Osiel123/Felicidade321/149550.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Jurassic World Acampamento Jurássico
+http://tjtor8411.com:80/Osiel123/Felicidade321/135561.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Kamp Koral Bob Esponja Primeiros Anos
+http://tjtor8411.com:80/Osiel123/Felicidade321/135562.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Kick Buttowski
+http://tjtor8411.com:80/Osiel123/Felicidade321/140533.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Kung Fu Panda Lendas do Dragão Guerreiro
+http://tjtor8411.com:80/Osiel123/Felicidade321/138948.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Kung Fu Panda O Cavaleiro Dragão
+http://tjtor8411.com:80/Osiel123/Felicidade321/166346.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Liga da Justiça Sem Limites
+http://tjtor8411.com:80/Osiel123/Felicidade321/138950.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Liga da Justiça [S01]
+http://tjtor8411.com:80/Osiel123/Felicidade321/149551.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Luluzinha
+http://tjtor8411.com:80/Osiel123/Felicidade321/149604.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Marvels MODOK
+http://tjtor8411.com:80/Osiel123/Felicidade321/136816.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Masha e o Urso
+http://tjtor8411.com:80/Osiel123/Felicidade321/137619.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Mickey e Donald
+http://tjtor8411.com:80/Osiel123/Felicidade321/140742.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Milo
+http://tjtor8411.com:80/Osiel123/Felicidade321/162375.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Mira A Detetive do Reino
+http://tjtor8411.com:80/Osiel123/Felicidade321/166347.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Momonstros
+http://tjtor8411.com:80/Osiel123/Felicidade321/145379.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Mucha Lucha
+http://tjtor8411.com:80/Osiel123/Felicidade321/138952.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Mundo Bita e a Natureza
+http://tjtor8411.com:80/Osiel123/Felicidade321/135498.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Mundo Bita e as Brincadeiras
+http://tjtor8411.com:80/Osiel123/Felicidade321/135497.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Mundo Bita e o Corpo Humano
+http://tjtor8411.com:80/Osiel123/Felicidade321/135496.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Mundo Bita e o Nosso Dia
+http://tjtor8411.com:80/Osiel123/Felicidade321/135495.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Mundo Bita e o Nosso Dia
+http://tjtor8411.com:80/Osiel123/Felicidade321/135495.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Mundo Bita e os Animais
+http://tjtor8411.com:80/Osiel123/Felicidade321/135494.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] O Acampamento de Lazlo
+http://tjtor8411.com:80/Osiel123/Felicidade321/150113.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] O Chefinho De Volta aos Negócios
+http://tjtor8411.com:80/Osiel123/Felicidade321/138953.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] O Incrivel Mundo de Gumball
+http://tjtor8411.com:80/Osiel123/Felicidade321/166348.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] O Mundo Maravilhosamente Estranho de Gumball
 http://tjtor8411.com:80/Osiel123/Felicidade321/371460.ts
-#EXTINF:-1 ,[24H] Não é uma Caixa
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] O Laboratório de Dexter
+http://tjtor8411.com:80/Osiel123/Felicidade321/150114.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",24H] O Marinheiro Popeye [S03]
+http://tjtor8411.com:80/Osiel123/Felicidade321/145945.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] O Maskara
+http://tjtor8411.com:80/Osiel123/Felicidade321/145380.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] O Mundo Maravilhoso de Mickey Mouse
+http://tjtor8411.com:80/Osiel123/Felicidade321/151621.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] O Novo Show do Pica Pau
+http://tjtor8411.com:80/Osiel123/Felicidade321/145381.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Pica Pau
+http://tjtor8411.com:80/Osiel123/Felicidade321/136821.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] O Show do Garfield
+http://tjtor8411.com:80/Osiel123/Felicidade321/137429.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Odo
+http://tjtor8411.com:80/Osiel123/Felicidade321/150491.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Operação Big Hero
+http://tjtor8411.com:80/Osiel123/Felicidade321/137430.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Os Apuros de Penélope Charmosa
+http://tjtor8411.com:80/Osiel123/Felicidade321/162376.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Os Backyardigans
+http://tjtor8411.com:80/Osiel123/Felicidade321/141495.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Os Busbys + 5
+http://tjtor8411.com:80/Osiel123/Felicidade321/151622.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Os Herculoides
+http://tjtor8411.com:80/Osiel123/Felicidade321/137164.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Os Mistérios de Frajola e Piu Piu
+http://tjtor8411.com:80/Osiel123/Felicidade321/138027.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Os Mistérios de Frajola e Piu Piu
+http://tjtor8411.com:80/Osiel123/Felicidade321/166349.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Os Incriveis Espioes
+http://tjtor8411.com:80/Osiel123/Felicidade321/140744.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Os Jetsons
+http://tjtor8411.com:80/Osiel123/Felicidade321/137165.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Os Padrinhos Mágicos
+http://tjtor8411.com:80/Osiel123/Felicidade321/135546.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Os Simpsons [S26]
+http://tjtor8411.com:80/Osiel123/Felicidade321/135576.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Os Smurfs
+http://tjtor8411.com:80/Osiel123/Felicidade321/136817.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Pestinha e Feroz
+http://tjtor8411.com:80/Osiel123/Felicidade321/135501.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Pocoyo
+http://tjtor8411.com:80/Osiel123/Felicidade321/137435.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Rua Dalmatas 101
+http://tjtor8411.com:80/Osiel123/Felicidade321/137439.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Rugrats Os Anjinhos
+http://tjtor8411.com:80/Osiel123/Felicidade321/149539.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] South Park [S05]
+http://tjtor8411.com:80/Osiel123/Felicidade321/137035.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Star vs. As Forças do Mal [S02]
+http://tjtor8411.com:80/Osiel123/Felicidade321/137061.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Star Wars A Guerra dos Clones [S04]
+http://tjtor8411.com:80/Osiel123/Felicidade321/137067.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Star Wars Rebels [S01]
+http://tjtor8411.com:80/Osiel123/Felicidade321/137072.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Star Wars Aventuras dos Jovens Jedi
+http://tjtor8411.com:80/Osiel123/Felicidade321/306863.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Super Amigos
+http://tjtor8411.com:80/Osiel123/Felicidade321/149605.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Superman A Série Animada [S02]
+http://tjtor8411.com:80/Osiel123/Felicidade321/137085.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Supermansion [S03]
+http://tjtor8411.com:80/Osiel123/Felicidade321/149542.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] O Show do Archie
+http://tjtor8411.com:80/Osiel123/Felicidade321/145947.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] ThunderCats (2011)
+http://tjtor8411.com:80/Osiel123/Felicidade321/135489.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Tiny Toon Aventuras
+http://tjtor8411.com:80/Osiel123/Felicidade321/166351.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Topo Gigio
+http://tjtor8411.com:80/Osiel123/Felicidade321/162378.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Guerra dos Transformers por Cybertron O Nascer da Terra
+http://tjtor8411.com:80/Osiel123/Felicidade321/135503.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Três Espias Demais
+http://tjtor8411.com:80/Osiel123/Felicidade321/140758.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Tubacao
+http://tjtor8411.com:80/Osiel123/Felicidade321/135505.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Uma Família da Pesada [S12]
+http://tjtor8411.com:80/Osiel123/Felicidade321/155465.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Vampirina
+http://tjtor8411.com:80/Osiel123/Felicidade321/138941.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Velozes e Furiosos Espiões do Asfalto
+http://tjtor8411.com:80/Osiel123/Felicidade321/138942.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] X Men Série Animada
+http://tjtor8411.com:80/Osiel123/Felicidade321/137173.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Arlequina
+http://tjtor8411.com:80/Osiel123/Felicidade321/223833.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Opostos Solares
+http://tjtor8411.com:80/Osiel123/Felicidade321/223835.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Sr. Bean
+http://tjtor8411.com:80/Osiel123/Felicidade321/223841.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",Adult Swim H265
+http://tjtor8411.com:80/Osiel123/Felicidade321/251961.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] A Guarda do Leão [S01]
+http://tjtor8411.com:80/Osiel123/Felicidade321/306832.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Biduzidos
+http://tjtor8411.com:80/Osiel123/Felicidade321/306841.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Bob O Construtor 
+http://tjtor8411.com:80/Osiel123/Felicidade321/306842.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Monstros no Trabalho
+http://tjtor8411.com:80/Osiel123/Felicidade321/306855.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Doug O Robo Curioso
+http://tjtor8411.com:80/Osiel123/Felicidade321/306843.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Futebol de Rua
+http://tjtor8411.com:80/Osiel123/Felicidade321/306847.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Garota da Lua e o Dinossauro Demonio
+http://tjtor8411.com:80/Osiel123/Felicidade321/306848.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Lilo e Stitch Uma Série
+http://tjtor8411.com:80/Osiel123/Felicidade321/306851.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Os Ursinhos Gummi
+http://tjtor8411.com:80/Osiel123/Felicidade321/306857.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Pinha e Pony
+http://tjtor8411.com:80/Osiel123/Felicidade321/306859.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] O Mundo de Greg [S01]
+http://tjtor8411.com:80/Osiel123/Felicidade321/375073.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Yo Gabba Gabbalândia!
+http://tjtor8411.com:80/Osiel123/Felicidade321/371462.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Wylde Pak
+http://tjtor8411.com:80/Osiel123/Felicidade321/371461.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Não é uma Caixa
 http://tjtor8411.com:80/Osiel123/Felicidade321/371459.ts
-#EXTINF:-1 ,Já Era!
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",Já Era!
 http://tjtor8411.com:80/Osiel123/Felicidade321/371458.ts
-#EXTINF:-1 ,[24H] Gladiadores da Natureza
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Gladiadores da Natureza
 http://tjtor8411.com:80/Osiel123/Felicidade321/371456.ts
-#EXTINF:-1 ,[24H] Gigablaster
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Gigablaster
 http://tjtor8411.com:80/Osiel123/Felicidade321/371455.ts
-#EXTINF:-1 ,[24H] Folha Mágica
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Folha Mágica
 http://tjtor8411.com:80/Osiel123/Felicidade321/371454.ts
-#EXTINF:-1 ,[24H] Dragões: A Série
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Dragões: A Série
 http://tjtor8411.com:80/Osiel123/Felicidade321/371453.ts
-#EXTINF:-1 ,[24H] Chapolin e Os Colorados
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Chapolin e Os Colorados
 http://tjtor8411.com:80/Osiel123/Felicidade321/371451.ts
-#EXTINF:-1 ,[24H] Big Blue: O Grande Oceano
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Big Blue: O Grande Oceano
 http://tjtor8411.com:80/Osiel123/Felicidade321/371450.ts
-#EXTINF:-1 ,[24H] As Irmãs Grimm
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] As Irmãs Grimm
 http://tjtor8411.com:80/Osiel123/Felicidade321/371449.ts
-#EXTINF:-1 ,[24H] Os Pinguins de Madagascar
+#EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="",[24H] Os Pinguins de Madagascar
 http://tjtor8411.com:80/Osiel123/Felicidade321/371448.ts
 
-////////////////////////////////////////////////// CANAIS 24 horas series  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
-#EXTINF:-1 ,[24H] Game of Thrones [S05]
+
+
+
+
+
+////////////////////////////////////////////////// CANAIS 24 HORAS SERIES  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIES" tvg-logo="",[24H] Game of Thrones 
 http://tjtor8411.com:80/Osiel123/Felicidade321/135530.ts
-#EXTINF:-1 ,[24H] Game of Thrones [S06]
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIES" tvg-logo="",[24H] Game of Thrones 
 http://tjtor8411.com:80/Osiel123/Felicidade321/135529.ts
-
-
-////////////////////////////////////////////////// CANAIS 24 horas seriado  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-
-#EXTINF:-1 ,[24H] A Culpa e do Cabral [S06]
-http://tjtor8411.com:80/Osiel123/Felicidade321/140770.ts
-#EXTINF:-1 ,[24H] Uma Grande Família [S05]
-http://tjtor8411.com:80/Osiel123/Felicidade321/137417.ts
-#EXTINF:-1 ,[24H] Arquivo Morto [S05]
-http://tjtor8411.com:80/Osiel123/Felicidade321/138735.ts
-#EXTINF:-1 ,[24H] Arquivo X [S01]
-http://tjtor8411.com:80/Osiel123/Felicidade321/138738.ts
-#EXTINF:-1 ,[24H] As Novas Aventuras de Christine
-http://tjtor8411.com:80/Osiel123/Felicidade321/138749.ts
-#EXTINF:-1 ,[24H] As Visoes da Raven
-http://tjtor8411.com:80/Osiel123/Felicidade321/135558.ts
-#EXTINF:-1 ,[24H] Agente KC
-http://tjtor8411.com:80/Osiel123/Felicidade321/155407.ts
-#EXTINF:-1 ,[24H] Alf O Eteimoso
-http://tjtor8411.com:80/Osiel123/Felicidade321/135550.ts
-#EXTINF:-1 ,[24H] A Vila [S01]
-http://tjtor8411.com:80/Osiel123/Felicidade321/140730.ts
-#EXTINF:-1 ,[24H] Betty e Feia
-http://tjtor8411.com:80/Osiel123/Felicidade321/138018.ts
-#EXTINF:-1 ,[24H] Betty Em Nova York
-http://tjtor8411.com:80/Osiel123/Felicidade321/138019.ts
-#EXTINF:-1 ,[24H] Austin e Ally
-http://tjtor8411.com:80/Osiel123/Felicidade321/138750.ts
-#EXTINF:-1 ,[24H] B Positivo
-http://tjtor8411.com:80/Osiel123/Felicidade321/140778.ts
-#EXTINF:-1 ,[24H] Brilhante Victoria
-http://tjtor8411.com:80/Osiel123/Felicidade321/138773.ts
-#EXTINF:-1 ,[24H] Castelo Rá-Tim-Bum
-http://tjtor8411.com:80/Osiel123/Felicidade321/138728.ts
-#EXTINF:-1 ,[24H] Costas de Chesapeake
-http://tjtor8411.com:80/Osiel123/Felicidade321/139306.ts
-#EXTINF:-1 ,[24H] Chuck Norris O Homem da Lei [S05]
-http://tjtor8411.com:80/Osiel123/Felicidade321/138784.ts
-#EXTINF:-1 ,[24H] Cobra Kai [S01]
-http://tjtor8411.com:80/Osiel123/Felicidade321/138712.ts
-#EXTINF:-1 ,[24H] Como Defender um Assassino [S03]
-http://tjtor8411.com:80/Osiel123/Felicidade321/139290.ts
-#EXTINF:-1 ,[24H] Como Eu Conheci Sua Mae [S04]
-http://tjtor8411.com:80/Osiel123/Felicidade321/139282.ts
-#EXTINF:-1 ,[24H] Dois Homens e Meio [S06]
-http://tjtor8411.com:80/Osiel123/Felicidade321/137628.ts
-#EXTINF:-1 ,[24H] Donas de Casa Desesperadas
-http://tjtor8411.com:80/Osiel123/Felicidade321/138789.ts
-#EXTINF:-1 ,[24H] Dani Se
-http://tjtor8411.com:80/Osiel123/Felicidade321/140781.ts
-#EXTINF:-1 ,[24H] Eu a Patroa e as Crianças [S05]
-http://tjtor8411.com:80/Osiel123/Felicidade321/138024.ts
-#EXTINF:-1 ,[24H] Drake e Josh
-http://tjtor8411.com:80/Osiel123/Felicidade321/137622.ts
-#EXTINF:-1 ,[24H] ER Plantação Médica [S07]
-http://tjtor8411.com:80/Osiel123/Felicidade321/138056.ts
-#EXTINF:-1 ,[24H] Escolinha do Professor Raimundo
-http://tjtor8411.com:80/Osiel123/Felicidade321/137611.ts
-#EXTINF:-1 ,[24H] Escolinha do Professor Raimundo Nova Geração [S03]
-http://tjtor8411.com:80/Osiel123/Felicidade321/138030.ts
-#EXTINF:-1 ,[24H] Esquadrão Especial Winspector
-http://tjtor8411.com:80/Osiel123/Felicidade321/156654.ts
-#EXTINF:-1 ,[24H] Esquadrão Relâmpago Changeman
-http://tjtor8411.com:80/Osiel123/Felicidade321/138779.ts
-#EXTINF:-1 ,[24H] Amigos [S02]
-http://tjtor8411.com:80/Osiel123/Felicidade321/138815.ts
-#EXTINF:-1 ,[24H] Amigos [S03]
-http://tjtor8411.com:80/Osiel123/Felicidade321/138816.ts
-#EXTINF:-1 ,[24H] Amigos [S04]
-http://tjtor8411.com:80/Osiel123/Felicidade321/138817.ts
-#EXTINF:-1 ,[24H] Game Shakers [S01]
-http://tjtor8411.com:80/Osiel123/Felicidade321/138007.ts
-#EXTINF:-1 ,[24H] Hannah Montana
-http://tjtor8411.com:80/Osiel123/Felicidade321/139272.ts
-#EXTINF:-1 ,[24H] High School Musical Uma Série Musical [S01]
-http://tjtor8411.com:80/Osiel123/Felicidade321/138709.ts
-#EXTINF:-1 ,[24H] iCarly (2021)
-http://tjtor8411.com:80/Osiel123/Felicidade321/135455.ts
-#EXTINF:-1 ,[24H] iCarly [S04]
-http://tjtor8411.com:80/Osiel123/Felicidade321/135509.ts
-#EXTINF:-1 ,[24H] Jeannie
-http://tjtor8411.com:80/Osiel123/Felicidade321/152016.ts
-#EXTINF:-1 ,[24H] Jessie [S02]
-http://tjtor8411.com:80/Osiel123/Felicidade321/139295.ts
-#EXTINF:-1 ,[24H] Jiraiya O Incrivel Ninja
-http://tjtor8411.com:80/Osiel123/Felicidade321/135569.ts
-#EXTINF:-1 ,[24H] Jornada nas Estrelas Enterprise [S01]
-http://tjtor8411.com:80/Osiel123/Felicidade321/139300.ts
-#EXTINF:-1 ,[24H] Jovem Sheldon [S02]
-http://tjtor8411.com:80/Osiel123/Felicidade321/137124.ts
-#EXTINF:-1 ,[24H] Kevin Pode Esperar [S01]
-http://tjtor8411.com:80/Osiel123/Felicidade321/139275.ts
-#EXTINF:-1 ,[24H] Kenan e Kel
-http://tjtor8411.com:80/Osiel123/Felicidade321/138955.ts
-#EXTINF:-1 ,[24H] Ratos de Laboratório
-http://tjtor8411.com:80/Osiel123/Felicidade321/138949.ts
-#EXTINF:-1 ,[24H] Lois e Clark As Novas Aventuras do Superman [S02]
-http://tjtor8411.com:80/Osiel123/Felicidade321/135564.ts
-#EXTINF:-1 ,[24H] Senhor Brau
-http://tjtor8411.com:80/Osiel123/Felicidade321/138951.ts
-#EXTINF:-1 ,[24H] Monstro do Amor
-http://tjtor8411.com:80/Osiel123/Felicidade321/151620.ts
-#EXTINF:-1 ,[24H] Mortal Kombat Defensores da Terra
-http://tjtor8411.com:80/Osiel123/Felicidade321/139299.ts
-#EXTINF:-1 ,[24H] Nicky Ricky Dicky e Dawn [S01]
-http://tjtor8411.com:80/Osiel123/Felicidade321/145939.ts
-#EXTINF:-1 ,[24H] O Rancho [S01]
-http://tjtor8411.com:80/Osiel123/Felicidade321/138956.ts
-#EXTINF:-1 ,[24H] Os Feiticeiros De Waverly Place [S01]
-http://tjtor8411.com:80/Osiel123/Felicidade321/138960.ts
-#EXTINF:-1 ,[24H] Os Guerreiros Wasabi [S01]
-http://tjtor8411.com:80/Osiel123/Felicidade321/137160.ts
-#EXTINF:-1 ,[24H] Os Homens São de Marte... E e pra La Que Eu Vou [S01]
-http://tjtor8411.com:80/Osiel123/Felicidade321/137169.ts
-#EXTINF:-1 ,[24H] Os Normais
-http://tjtor8411.com:80/Osiel123/Felicidade321/137168.ts
-#EXTINF:-1 ,[24H] Os Roni
-http://tjtor8411.com:80/Osiel123/Felicidade321/138964.ts
-#EXTINF:-1 ,[24H] Os Thundermans [S01]
-http://tjtor8411.com:80/Osiel123/Felicidade321/137432.ts
-#EXTINF:-1 ,[24H] Sai de Baixo [S03]
-http://tjtor8411.com:80/Osiel123/Felicidade321/140749.ts
-#EXTINF:-1 ,[24H] Sessão de Terapia [S01]
-http://tjtor8411.com:80/Osiel123/Felicidade321/137106.ts
-#EXTINF:-1 ,[24H] Supermaes [S02]
-http://tjtor8411.com:80/Osiel123/Felicidade321/138724.ts
-#EXTINF:-1 ,[24H] Supernatural [S04] [L]
-http://tjtor8411.com:80/Osiel123/Felicidade321/136744.ts
-#EXTINF:-1 ,[24H] Ta Puxado
-http://tjtor8411.com:80/Osiel123/Felicidade321/140756.ts
-#EXTINF:-1 ,[24H] Tapas e Beijos [S05]
-http://tjtor8411.com:80/Osiel123/Felicidade321/137115.ts
-#EXTINF:-1 ,[24H] The Big Bang Theory [S08]
-http://tjtor8411.com:80/Osiel123/Felicidade321/135463.ts
-#EXTINF:-1 ,[24H] Tratamento de Choque [S01]
-http://tjtor8411.com:80/Osiel123/Felicidade321/137095.ts
-#EXTINF:-1 ,[24H] Tratamento de Choque [S02]
-http://tjtor8411.com:80/Osiel123/Felicidade321/137096.ts
-#EXTINF:-1 ,[24H] Um Maluco no Pedaco [S03]
-http://tjtor8411.com:80/Osiel123/Felicidade321/135448.ts
-#EXTINF:-1 ,[24H] Vai Que Cola [S03]
-http://tjtor8411.com:80/Osiel123/Felicidade321/137442.ts
-#EXTINF:-1 ,[24H] Xena A Princesa Guerreira [S02]
-http://tjtor8411.com:80/Osiel123/Felicidade321/137118.ts
-#EXTINF:-1 ,[24H] Zorro [S01]
-http://tjtor8411.com:80/Osiel123/Felicidade321/136818.ts
-#EXTINF:-1 ,[24H] Vikings [S04]
-http://tjtor8411.com:80/Osiel123/Felicidade321/371503.ts
-#EXTINF:-1 ,[24H] O Último Reino [S04]
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIES" tvg-logo="",24H] O Último Reino 
 http://tjtor8411.com:80/Osiel123/Felicidade321/371498.ts
-#EXTINF:-1 ,[24H] Prison Break: Em Busca da Verdade [S01]
-http://tjtor8411.com:80/Osiel123/Felicidade321/371490.ts
-#EXTINF:-1 ,[24H] Filhos da Anarquia [S02]
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIES" tvg-logo="",[24H] Filhos da Anarquia 
 http://tjtor8411.com:80/Osiel123/Felicidade321/371484.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIES" tvg-logo="",[24H] Vikings 
+http://tjtor8411.com:80/Osiel123/Felicidade321/371503.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIES" tvg-logo="",[24H] Prison Break: Em Busca da Verdade 
+http://tjtor8411.com:80/Osiel123/Felicidade321/371490.ts
 
-////////////////////////////////////////////////// CANAIS 24 horas REALITY SHOW  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+////////////////////////////////////////////////// CANAIS 24 HORAS SERIADO  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
-#EXTINF:-1 ,[24H] Anota Ai
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] A Culpa e do Cabral [S06]
+http://tjtor8411.com:80/Osiel123/Felicidade321/140770.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Uma Grande Família [S05]
+http://tjtor8411.com:80/Osiel123/Felicidade321/137417.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Arquivo Morto [S05]
+http://tjtor8411.com:80/Osiel123/Felicidade321/138735.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Arquivo X [S01]
+http://tjtor8411.com:80/Osiel123/Felicidade321/138738.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] As Novas Aventuras de Christine
+http://tjtor8411.com:80/Osiel123/Felicidade321/138749.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] As Visoes da Raven
+http://tjtor8411.com:80/Osiel123/Felicidade321/135558.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Agente KC
+http://tjtor8411.com:80/Osiel123/Felicidade321/155407.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Alf O Eteimoso
+http://tjtor8411.com:80/Osiel123/Felicidade321/135550.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] A Vila [S01]
+http://tjtor8411.com:80/Osiel123/Felicidade321/140730.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Betty e Feia
+http://tjtor8411.com:80/Osiel123/Felicidade321/138018.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Betty Em Nova York
+http://tjtor8411.com:80/Osiel123/Felicidade321/138019.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Austin e Ally
+http://tjtor8411.com:80/Osiel123/Felicidade321/138750.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] B Positivo
+http://tjtor8411.com:80/Osiel123/Felicidade321/140778.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Brilhante Victoria
+http://tjtor8411.com:80/Osiel123/Felicidade321/138773.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Castelo Rá-Tim-Bum
+http://tjtor8411.com:80/Osiel123/Felicidade321/138728.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Costas de Chesapeake
+http://tjtor8411.com:80/Osiel123/Felicidade321/139306.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Chuck Norris O Homem da Lei [S05]
+http://tjtor8411.com:80/Osiel123/Felicidade321/138784.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Cobra Kai [S01]
+http://tjtor8411.com:80/Osiel123/Felicidade321/138712.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Como Defender um Assassino [S03]
+http://tjtor8411.com:80/Osiel123/Felicidade321/139290.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Como Eu Conheci Sua Mae [S04]
+http://tjtor8411.com:80/Osiel123/Felicidade321/139282.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Dois Homens e Meio [S06]
+http://tjtor8411.com:80/Osiel123/Felicidade321/137628.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Donas de Casa Desesperadas
+http://tjtor8411.com:80/Osiel123/Felicidade321/138789.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Dani Se
+http://tjtor8411.com:80/Osiel123/Felicidade321/140781.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Eu a Patroa e as Crianças [S05]
+http://tjtor8411.com:80/Osiel123/Felicidade321/138024.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Drake e Josh
+http://tjtor8411.com:80/Osiel123/Felicidade321/137622.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] ER Plantação Médica [S07]
+http://tjtor8411.com:80/Osiel123/Felicidade321/138056.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Escolinha do Professor Raimundo
+http://tjtor8411.com:80/Osiel123/Felicidade321/137611.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Escolinha do Professor Raimundo Nova Geração [S03]
+http://tjtor8411.com:80/Osiel123/Felicidade321/138030.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Esquadrão Especial Winspector
+http://tjtor8411.com:80/Osiel123/Felicidade321/156654.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Esquadrão Relâmpago Changeman
+http://tjtor8411.com:80/Osiel123/Felicidade321/138779.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Amigos [S02]
+http://tjtor8411.com:80/Osiel123/Felicidade321/138815.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Amigos [S03]
+http://tjtor8411.com:80/Osiel123/Felicidade321/138816.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Amigos [S04]
+http://tjtor8411.com:80/Osiel123/Felicidade321/138817.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Game Shakers [S01]
+http://tjtor8411.com:80/Osiel123/Felicidade321/138007.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Hannah Montana
+http://tjtor8411.com:80/Osiel123/Felicidade321/139272.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] High School Musical Uma Série Musical [S01]
+http://tjtor8411.com:80/Osiel123/Felicidade321/138709.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] iCarly (2021)
+http://tjtor8411.com:80/Osiel123/Felicidade321/135455.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] iCarly [S04]
+http://tjtor8411.com:80/Osiel123/Felicidade321/135509.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Jeannie
+http://tjtor8411.com:80/Osiel123/Felicidade321/152016.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Jessie [S02]
+http://tjtor8411.com:80/Osiel123/Felicidade321/139295.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Jiraiya O Incrivel Ninja
+http://tjtor8411.com:80/Osiel123/Felicidade321/135569.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Jornada nas Estrelas Enterprise [S01]
+http://tjtor8411.com:80/Osiel123/Felicidade321/139300.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Jovem Sheldon [S02]
+http://tjtor8411.com:80/Osiel123/Felicidade321/137124.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Kevin Pode Esperar [S01]
+http://tjtor8411.com:80/Osiel123/Felicidade321/139275.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Kenan e Kel
+http://tjtor8411.com:80/Osiel123/Felicidade321/138955.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Ratos de Laboratório
+http://tjtor8411.com:80/Osiel123/Felicidade321/138949.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Lois e Clark As Novas Aventuras do Superman [S02]
+http://tjtor8411.com:80/Osiel123/Felicidade321/135564.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Senhor Brau
+http://tjtor8411.com:80/Osiel123/Felicidade321/138951.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Monstro do Amor
+http://tjtor8411.com:80/Osiel123/Felicidade321/151620.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Mortal Kombat Defensores da Terra
+http://tjtor8411.com:80/Osiel123/Felicidade321/139299.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Nicky Ricky Dicky e Dawn [S01]
+http://tjtor8411.com:80/Osiel123/Felicidade321/145939.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] O Rancho [S01]
+http://tjtor8411.com:80/Osiel123/Felicidade321/138956.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Os Feiticeiros De Waverly Place [S01]
+http://tjtor8411.com:80/Osiel123/Felicidade321/138960.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Os Guerreiros Wasabi [S01]
+http://tjtor8411.com:80/Osiel123/Felicidade321/137160.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Os Homens São de Marte... E e pra La Que Eu Vou [S01]
+http://tjtor8411.com:80/Osiel123/Felicidade321/137169.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Os Normais
+http://tjtor8411.com:80/Osiel123/Felicidade321/137168.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Os Roni
+http://tjtor8411.com:80/Osiel123/Felicidade321/138964.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Os Thundermans [S01]
+http://tjtor8411.com:80/Osiel123/Felicidade321/137432.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Sai de Baixo [S03]
+http://tjtor8411.com:80/Osiel123/Felicidade321/140749.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Sessão de Terapia [S01]
+http://tjtor8411.com:80/Osiel123/Felicidade321/137106.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Sessão de Terapia [S01]
+http://tjtor8411.com:80/Osiel123/Felicidade321/137106.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Supermaes [S02]
+http://tjtor8411.com:80/Osiel123/Felicidade321/138724.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Supernatural [S04] [L]
+http://tjtor8411.com:80/Osiel123/Felicidade321/136744.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Ta Puxado
+http://tjtor8411.com:80/Osiel123/Felicidade321/140756.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Tapas e Beijos [S05]
+http://tjtor8411.com:80/Osiel123/Felicidade321/137115.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] The Big Bang Theory [S08]
+http://tjtor8411.com:80/Osiel123/Felicidade321/135463.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Tratamento de Choque [S01]
+http://tjtor8411.com:80/Osiel123/Felicidade321/137095.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Tratamento de Choque [S02]
+http://tjtor8411.com:80/Osiel123/Felicidade321/137096.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Um Maluco no Pedaco [S03]
+http://tjtor8411.com:80/Osiel123/Felicidade321/135448.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Vai Que Cola [S03]
+http://tjtor8411.com:80/Osiel123/Felicidade321/137442.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Xena A Princesa Guerreira [S02]
+http://tjtor8411.com:80/Osiel123/Felicidade321/137118.ts
+#EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="",[24H] Zorro [S01]
+http://tjtor8411.com:80/Osiel123/Felicidade321/136818.ts
+
+////////////////////////////////////////////////// CANAIS 24 HORAS REALITY SHOW  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Anota Ai
 http://tjtor8411.com:80/Osiel123/Felicidade321/140777.ts
-#EXTINF:-1 ,[24H] Batalha Makers Brasil
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Batalha Makers Brasil
 http://tjtor8411.com:80/Osiel123/Felicidade321/138751.ts
-#EXTINF:-1 ,[24H] Boca Grande
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Boca Grande
 http://tjtor8411.com:80/Osiel123/Felicidade321/135560.ts
-#EXTINF:-1 ,[24H] Câmeras Escondidas Silvio Santos
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Câmeras Escondidas Silvio Santos
 http://tjtor8411.com:80/Osiel123/Felicidade321/152014.ts
-#EXTINF:-1 ,[24H] Casamento as Cegas Brasil [S01]
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Casamento as Cegas Brasil [S01]
 http://tjtor8411.com:80/Osiel123/Felicidade321/138778.ts
-#EXTINF:-1 ,[24H] Comidas Cheias de História
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Comidas Cheias de História
 http://tjtor8411.com:80/Osiel123/Felicidade321/140779.ts
-#EXTINF:-1 ,[24H] Como Funciona O Universo
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Como Funciona O Universo
 http://tjtor8411.com:80/Osiel123/Felicidade321/140736.ts
-#EXTINF:-1 ,[24H] Cosmos Mundos Possíveis
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Cosmos Mundos Possíveis
 http://tjtor8411.com:80/Osiel123/Felicidade321/140780.ts
-#EXTINF:-1 ,[24H] Criadores de Diversão
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Criadores de Diversão
 http://tjtor8411.com:80/Osiel123/Felicidade321/151618.ts
-#EXTINF:-1 ,[24H] Fórmula 1 Dirigir Para Viver
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Fórmula 1 Dirigir Para Viver
 http://tjtor8411.com:80/Osiel123/Felicidade321/152015.ts
-#EXTINF:-1 ,[24H] Farejando Novos Mundos
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Farejando Novos Mundos
 http://tjtor8411.com:80/Osiel123/Felicidade321/139274.ts
-#EXTINF:-1 ,[24H] Irmãos a Obra
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Irmãos a Obra
 http://tjtor8411.com:80/Osiel123/Felicidade321/140782.ts
-#EXTINF:-1 ,[24H] Lady Night [S01]
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Lady Night [S01]
 http://tjtor8411.com:80/Osiel123/Felicidade321/149520.ts
-#EXTINF:-1 ,[24H] Jovens Construtores
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Jovens Construtores
 http://tjtor8411.com:80/Osiel123/Felicidade321/138947.ts
-#EXTINF:-1 ,[24H] Largados e Pelados A Tribo [S01]
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Largados e Pelados A Tribo [S01]
 http://tjtor8411.com:80/Osiel123/Felicidade321/140737.ts
-#EXTINF:-1 ,[24H] Largados e Pelados A Tribo [S02]
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Largados e Pelados A Tribo [S02]
 http://tjtor8411.com:80/Osiel123/Felicidade321/140738.ts
-#EXTINF:-1 ,[24H] Largados e Pelados A Tribo [S03]
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Largados e Pelados A Tribo [S03]
 http://tjtor8411.com:80/Osiel123/Felicidade321/140739.ts
-#EXTINF:-1 ,[24H] Largados e Pelados A Tribo [S04]
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Largados e Pelados A Tribo [S04]
 http://tjtor8411.com:80/Osiel123/Felicidade321/140740.ts
-#EXTINF:-1 ,[24H] Largados e Pelados A Tribo [S05]
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Largados e Pelados A Tribo [S05]
 http://tjtor8411.com:80/Osiel123/Felicidade321/140741.ts
-#EXTINF:-1 ,[24H] Largados e Pelados A Tribo [S06]
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Largados e Pelados A Tribo [S06]
 http://tjtor8411.com:80/Osiel123/Felicidade321/145926.ts
-#EXTINF:-1 ,[24H] Largados e Pelados A Tribo [S07]
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Largados e Pelados A Tribo [S07]
 http://tjtor8411.com:80/Osiel123/Felicidade321/145927.ts
-#EXTINF:-1 ,[24H] Largados e Pelados [S04]
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Largados e Pelados [S04]
 http://tjtor8411.com:80/Osiel123/Felicidade321/145931.ts
-#EXTINF:-1 ,[24H] Masterchef Brasil [S03]
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Masterchef Brasil [S03]
 http://tjtor8411.com:80/Osiel123/Felicidade321/137148.ts
-#EXTINF:-1 ,[24H] Mestre do Sabor [S01]
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Mestre do Sabor [S01]
 http://tjtor8411.com:80/Osiel123/Felicidade321/137154.ts
-#EXTINF:-1 ,[24H] O Socio
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] O Socio
 http://tjtor8411.com:80/Osiel123/Felicidade321/137167.ts
-#EXTINF:-1 ,[24H] Operação Fronteira América do Sul
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Operação Fronteira América do Sul
 http://tjtor8411.com:80/Osiel123/Felicidade321/139304.ts
-#EXTINF:-1 ,[24H] Programa Câmeras Escondidas
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Programa Câmeras Escondidas
 http://tjtor8411.com:80/Osiel123/Felicidade321/151950.ts
-#EXTINF:-1 ,[24H] Quilos Mortais Como Eles Estao Agora [S01]
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Quilos Mortais Como Eles Estao Agora [S01]
 http://tjtor8411.com:80/Osiel123/Felicidade321/149526.t
-#EXTINF:-1 ,[24H] Shark Tank Brasil [S01]
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Shark Tank Brasil [S01]
 http://tjtor8411.com:80/Osiel123/Felicidade321/137100.ts
-#EXTINF:-1 ,[24H] Soltos em Floripa [S01]
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Soltos em Floripa [S01]
 http://tjtor8411.com:80/Osiel123/Felicidade321/137028.ts
-#EXTINF:-1 ,[24H] Pesadelo Na Cozinha
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Pesadelo Na Cozinha
 http://tjtor8411.com:80/Osiel123/Felicidade321/138722.ts
-#EXTINF:-1 ,[24H] Top Chef Brasil [S01]
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Top Chef Brasil [S01]
 http://tjtor8411.com:80/Osiel123/Felicidade321/145948.ts
-#EXTINF:-1 ,[24H] Top Chef Brasil [S02]
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Top Chef Brasil [S02]
 http://tjtor8411.com:80/Osiel123/Felicidade321/145949.ts
-#EXTINF:-1 ,[24H] Asa Superior
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Asa Superior
 http://tjtor8411.com:80/Osiel123/Felicidade321/151952.ts
-#EXTINF:-1 ,[24H] Ultimate Beastmaster Brasil [S03]
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Ultimate Beastmaster Brasil [S03]
 http://tjtor8411.com:80/Osiel123/Felicidade321/141498.ts
-#EXTINF:-1 ,[24H] Batalha do Churrasco
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Batalha do Churrasco
 http://tjtor8411.com:80/Osiel123/Felicidade321/254769.ts
-#EXTINF:-1 ,[24H] Operação Fronteira Brasil [S01]
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Operação Fronteira Brasil [S01]
 http://tjtor8411.com:80/Osiel123/Felicidade321/254770.ts
-#EXTINF:-1 ,[24H] [Canal YouTube] Fritada
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] [Canal YouTube] Fritada
 http://tjtor8411.com:80/Osiel123/Felicidade321/255220.ts
-#EXTINF:-1 ,[24H] Carros Irado [S03]
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Carros Irado [S03]
 http://tjtor8411.com:80/Osiel123/Felicidade321/255226.ts
-#EXTINF:-1 ,[24H] Carros Irado [S04]
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Carros Irado [S04]
 http://tjtor8411.com:80/Osiel123/Felicidade321/255227.ts
-#EXTINF:-1 ,[24H] Hot Wheels A Batalha da Customização
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Hot Wheels A Batalha da Customização
 http://tjtor8411.com:80/Osiel123/Felicidade321/255233.ts
-#EXTINF:-1 ,CNBC Brasil FHD
-http://tjtor8411.com:80/Osiel123/Felicidade321/295477.ts
-#EXTINF:-1 ,[24H] Sob Nova Direção [S01]
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Sob Nova Direção [S01]
 http://tjtor8411.com:80/Osiel123/Felicidade321/306827.ts
-#EXTINF:-1 ,[24H] Mansões em Frente ao Lago
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Mansões em Frente ao Lago
 http://tjtor8411.com:80/Osiel123/Felicidade321/306852.ts
-#EXTINF:-1 ,[24H] Uma Verdadeira Vida de Inseto
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Uma Verdadeira Vida de Inseto
 http://tjtor8411.com:80/Osiel123/Felicidade321/306866.ts
-#EXTINF:-1 ,[24H] Brasil Visto de Cima [S01]
+#EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="",[24H] Brasil Visto de Cima [S01]
 http://tjtor8411.com:80/Osiel123/Felicidade321/375065.ts
+
+
+
+
+
 --------------------------------------------------------------------------------------------www123----------------------------------------------------------------
-#EXTINF:-1 ,A FAZENDA 18 MOSAICO
-http://corruptx.org:80/3llohwk4g9/kwf099q30o/2470067.ts
-#EXTINF:-1 ,A FAZENDA 18 03
-http://corruptx.org:80/3llohwk4g9/kwf099q30o/2470063.ts
-#EXTINF:-1 ,A FAZENDA 18 04
-http://corruptx.org:80/3llohwk4g9/kwf099q30o/2470064.ts
-#EXTINF:-1 ,A FAZENDA 18 05
-http://corruptx.org:80/3llohwk4g9/kwf099q30o/2470065.ts
-#EXTINF:-1 ,A FAZENDA 18 06
-http://corruptx.org:80/3llohwk4g9/kwf099q30o/2470066.ts
-#EXTINF:-1 ,ANTENA 1 FM (RÁDIOS)
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/177
-#EXTINF:-1 ,CANÇÃO NOVA SD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/458
+
+
 #EXTINF:-1 ,CINE SKY 1
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/686
 #EXTINF:-1 ,CINE SKY 2
@@ -3126,29 +3196,6 @@ http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/687
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/688
 #EXTINF:-1 ,CINE SKY 5
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/690
-#EXTINF:-1 ,DAZN 02 HD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/326
-#EXTINF:-1 ,DAZN 03 HD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/327
-#EXTINF:-1 ,NOSSO FUTEBOL 01
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/96522
-#EXTINF:-1 ,NOSSO FUTEBOL 02
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/96523
-#EXTINF:-1 ,NOSSO FUTEBOL 03
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/96524
-#EXTINF:-1 ,NOSSO FUTEBOL 04
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/96525
-#EXTINF:-1 ,CAZE TV 1
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/90526
-#EXTINF:-1 ,CAZE TV 2
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/90527
-#EXTINF:-1 ,CAZE TV 3
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/537614
-#EXTINF:-1 ,CAZE TV 4
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/537615
-#EXTINF:-1 ,CIÊNCIA DA DESCOBERTA H265
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/228
-
 #EXTINF:-1 ,TEATRO DA DESCOBERTA H265
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/229
 #EXTINF:-1 ,CINEMA DA DESCOBERTA HD
@@ -3159,62 +3206,8 @@ http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/76671
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/231
 #EXTINF:-1 ,TV DE CACHORRO HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/138
-#EXTINF:-1 ,PRIME VIDEO 1 HD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/83809
-#EXTINF:-1 ,PRIME VIDEO 2 HD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/83810
-#EXTINF:-1 ,GLOBOPLAY+ 01
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/85879
-#EXTINF:-1 ,GLOBOPLAY+ 02
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/85880
-#EXTINF:-1 ,PARAMOUNT+ 1 HD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/96812
-#EXTINF:-1 ,PARAMOUNT+ 2 HD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/96813
-#EXTINF:-1 ,PARAMOUNT+ 3 HD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/96814
-#EXTINF:-1 ,PARAMOUNT+ 4 HD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/96815
-#EXTINF:-1 ,BR SPORT FHD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/494901
-#EXTINF:-1 ,BR SPORT HD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/454345
-#EXTINF:-1 ,BR SPORT 2 FHD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/450103
-#EXTINF:-1 ,BR SPORT 2 HD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/505857
-#EXTINF:-1 ,BR SPORT 3 FHD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/772
-#EXTINF:-1 ,BR SPORT 3 HD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/23
-#EXTINF:-1 ,BR SPORT 4 FHD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/497306
-#EXTINF:-1 ,BR SPORT 4 HD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/494039
-#EXTINF:-1 ,BR SPORT 5 FHD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/773
-#EXTINF:-1 ,BR SPORT 5 HD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/32
-#EXTINF:-1 ,BR SPORT 6 FHD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/770
-#EXTINF:-1 ,BR SPORT 6 HD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/26
-#EXTINF:-1 ,FILME E ARTE FHD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/855
-#EXTINF:-1 ,FILME E ARTE HD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/125
 #EXTINF:-1 ,FURACAO TV (01)
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/200
-#EXTINF:-1 ,HBO MAX 01
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/78527
-#EXTINF:-1 ,HBO H265
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/251
-#EXTINF:-1 ,HBO MAX 02
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/204
-#EXTINF:-1 ,HBO MAX 04
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/206
-#EXTINF:-1 ,HBO MAX 06
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/529221
 #EXTINF:-1 ,HISTÓRIA 2 FHD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/806
 #EXTINF:-1 ,HISTÓRICO 2 H265
@@ -3281,18 +3274,6 @@ http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/84
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/849
 #EXTINF:-1 ,SÉRIE TNT SD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/560
-#EXTINF:-1 ,TOONCAST FHD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/834
-#EXTINF:-1 ,TOONCAST HD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/124
-#EXTINF:-1 ,TOONCAST SD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/561
-#EXTINF:-1 ,TOP 40 FM (RÁDIOS)
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/194
-#EXTINF:-1 ,CAIXA DE VIAGEM BRASIL FHD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/884
-#EXTINF:-1 ,CAIXA DE VIAGEM BRASIL HD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/136
 #EXTINF:-1 ,TRUT TV FHD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/878
 #EXTINF:-1 ,TRUT TV HD
@@ -3315,13 +3296,6 @@ http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/163
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/164
 #EXTINF:-1 ,TVR VARIEDADES
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/71138
-#EXTINF:-1 ,UNIVERSAL CHANNEL FHD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/848
-#EXTINF:-1 ,UNIVERSAL CHANNEL HD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/90
-#EXTINF:-1 ,CANAL UNIVERSAL SD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/585
-
 #EXTINF:-1 ,TNT 4K
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/80555
 #EXTINF:-1 ,TV DIARIO NORDESTE
@@ -3334,20 +3308,6 @@ http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/87726
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/88962
 #EXTINF:-1 ,CINE DISNEY
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/88963
-#EXTINF:-1 ,CINEMA STAR WARS
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/88965
-#EXTINF:-1 ,CINE FICÇÃO
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/88966
-#EXTINF:-1 ,CINE MARVEL
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/88967
-#EXTINF:-1 ,APPLE TV 01
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/89786
-#EXTINF:-1 ,APPLE TV 02
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/89787
-#EXTINF:-1 ,APPLE TV 03
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/89788
-#EXTINF:-1 ,APPLE TV 04
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/89789
 #EXTINF:-1 ,AGRO+ HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/428744
 #EXTINF:-1 ,SBT+ NOVELAS
@@ -3358,8 +3318,6 @@ http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/453192
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/453193
 #EXTINF:-1 ,GRAVAÇÃO DE RECEITA DE TV HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/453258
-#EXTINF:-1 ,BR SPORT 4K
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/454346
 #EXTINF:-1 ,PPV EXTRA 02
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/454757
 #EXTINF:-1 ,PPV EXTRA 03
@@ -3372,89 +3330,30 @@ http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/454760
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/454761
 #EXTINF:-1 ,PPV EVENTOS ESPECIAIS
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/462795
-#EXTINF:-1 ,CABRA 01
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/469593
-#EXTINF:-1 ,CABRA 02
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/469594
-#EXTINF:-1 ,CABRA 03
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/469595
+
 #EXTINF:-1 ,ZAPPING 01
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/486032
-#EXTINF:-1 ,BR SPORT 4 4K
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/497305
-#EXTINF:-1 ,FLA TV
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/509957
 #EXTINF:-1 ,PPV EXTRA 07
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/537616
 #EXTINF:-1 ,PPV EXTRA 08
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/537617
 #EXTINF:-1 ,X ESPORTES
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/538625
-#EXTINF:-1 ,HBO MAX 09
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/541212
-#EXTINF:-1 ,HBO MAX 10
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/541213
-#EXTINF:-1 ,HBO MAX 11
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/541214
-#EXTINF:-1 ,HBO MAX 12
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/541215
-#EXTINF:-1 ,HBO MAX 13
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/541216
-#EXTINF:-1 ,HBO MAX 14
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/541217
-#EXTINF:-1 ,HBO MAX 15
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/541218
-#EXTINF:-1 ,HBO MAX 16
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/541219
-#EXTINF:-1 ,HBO MAX 17
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/541220
-#EXTINF:-1 ,HBO MAX 18
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/541221
-#EXTINF:-1 ,SPORTYNET 01
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/546884
-#EXTINF:-1 ,SPORTYNET 02
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/546885
-#EXTINF:-1 ,SPORTYNET 03
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/546886
-#EXTINF:-1 ,SPORTYNET 04
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/546887
 #EXTINF:-1 ,JOGOS DE HOJE
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/553081
-#EXTINF:-1 ,EVENTOS DA NETFLIX
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/553082
-#EXTINF:-1 ,DURAÇÃO AÇÃO
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/553660
-#EXTINF:-1 ,DURAÇÃO BRASIL
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/553661
-#EXTINF:-1 ,RUNTIME CINE ESPANTO
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/553662
-#EXTINF:-1 ,DURAÇÃO COMÉDIA
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/553663
-#EXTINF:-1 ,DURAÇÃO DO CRIME
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/553664
-#EXTINF:-1 ,DURAÇÃO FAMÍLIA
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/553665
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 ,TEMPO DE EXECUÇÃO MOTORVISION
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/553666
 #EXTINF:-1 ,DURAÇÃO DO FILME ESFERA
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/553667
-#EXTINF:-1 ,ROMANCE DE DURAÇÃO
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/553668
-#EXTINF:-1 ,DURAÇÃO TG BRASIL
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/553669
-#EXTINF:-1 ,A CÂMERA FAZENDA 01
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/566435
-#EXTINF:-1 ,A CÂMERA FAZENDA 02
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/566436
-#EXTINF:-1 ,A CÂMERA FAZENDA 03
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/566437
-#EXTINF:-1 ,A CÂMERA FAZENDA 04
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/566438
-#EXTINF:-1 ,A CÂMERA FAZENDA 05
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/566439
-#EXTINF:-1 ,A CÂMERA FAZENDA 06
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/566440
-#EXTINF:-1 ,A FAZENDA MOSAICO
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/566441
 #EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06m/index.m3u8
